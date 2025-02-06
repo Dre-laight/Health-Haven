@@ -37,7 +37,6 @@ span {
 @media (max-width: 600px) {
    
     .main-content {
-        width: 430px;
         word-wrap: break-word;
         white-space: normal;
     }
