@@ -29,7 +29,7 @@ export const book = [{
 <strong>How is Alzheimer's treated?</strong><br/>
    There’s no cure for Alzheimer's, but medications like <span>cholinesterase inhibitors</span> (Donepezil) can 
    help manage symptoms. <span>Lifestyle changes</span>, cognitive therapies, and support can improve quality 
-   of life and delay progression.
+   of life and delay progression.<br/>
 
 <strong>How is Alzheimer's prevented?</strong><br/>
    While there is no guaranteed prevention, lifestyle changes such as staying <span>physically active</span>, 
