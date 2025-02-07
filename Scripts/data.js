@@ -157,7 +157,7 @@ can help spot anxiety early and provide timely treatment.<br/><br/>
 }, {
     id: 6,
     image: 'Images/ebola.jpg',
-    bookTitle: 'Ebola',
+    bookTitle: 'EBOLA',
     bookAuthor: 'Eyram Donkor',
     content: ''
 
@@ -233,7 +233,7 @@ can help spot anxiety early and provide timely treatment.<br/><br/>
 
 }, {
     id: 17,
-    image: 'Images/nutrition.jpg',
+    image: 'Images/hypothyroidism.jpg',
     bookTitle: 'HYPOTHYROIDISM',
     bookAuthor: 'Eyram Donkor',
     content: ''
