@@ -1,156 +1,71 @@
 import { book } from '../Scripts/data.js';
-const details = []
-let renderBook = '';
-
+let details = [];
 const searchInput = document.getElementById('search-input');
+const bookCoverGeneral = document.querySelector('.book-cover-general');
 
-book.forEach((books) => {
-    renderBook += `<a href="read.html" class="item-redirect"><div class="single-item" data-item-name="${books.bookTitle}" data-item-author="${books.bookAuthor}" data-item-content="${books.content}">
-    <img class="book-cover" src="${books.image}">
-    <div class="detail-container">
-        <h3 class="book-title">${books.bookTitle}</h3>
-        <p class="book-author">By &#183 ${books.bookAuthor}</p>
-    </div>
-    
-</div></a>`;
+// Function to render the books
+const renderBooks = (books) => {
+    let renderBook = '';
+    books.forEach((bookItem) => {
+        renderBook += `
+            <a  href="read.html" class="item-redirect">
+                <div class="single-item" 
+                    data-item-name="${bookItem.bookTitle}" 
+                    data-item-author="${bookItem.bookAuthor}" 
+                    data-item-content="${bookItem.content}">
+                    <img class="book-cover" src="${bookItem.image}">
+                    <div class="detail-container">
+                        <h3 class="book-title">${bookItem.bookTitle}</h3>
+                        <p class="book-author">By &#183 ${bookItem.bookAuthor}</p>
+                    </div>
+                </div>
+            </a>
+        `;
+    });
+    bookCoverGeneral.innerHTML = renderBook;
+};
 
-    document.querySelector('.book-cover-general').innerHTML = renderBook;
+// Initial render of all books
+renderBooks(book);
+
+// Search functionality
+searchInput.addEventListener('input', () => {
+    const query = searchInput.value.toLowerCase();
+    const searchResults = book.filter(b => b.bookTitle.toLowerCase().includes(query));
+
+    if (searchResults.length > 0) {
+        renderBooks(searchResults);
+    } else {
+        bookCoverGeneral.innerHTML = 'No Results Found';
+    }
 });
 
-
-
-searchInput.addEventListener('input', () => {
-    if(searchInput.value.trim() === '') {
-        book.forEach((books) => {
-            renderBook = '';
-            renderBook += `<a href="read.html" class="item-redirect"><div class="single-item" data-item-name="${books.bookTitle}" data-item-author="${books.bookAuthor}" data-item-content="${books.content}">
-            <img class="book-cover" src="${books.image}">
-            <div class="detail-container">
-                <h3 class="book-title">${books.bookTitle}</h3>
-                <p class="book-author">By &#183 ${books.bookAuthor}</p>
-            </div>
-            
-        </div></a>`;
-    
-            document.querySelector('.book-cover-general').innerHTML = renderBook;
-            console.log(renderBook)
-        });
-    } 
-
-})
-    
-
-document.querySelectorAll('.single-item').forEach((item) => {
-    item.addEventListener('click', () => {
-
-        let title = item.dataset.itemName;
-        let author = item.dataset.itemAuthor;
-        let content = item.dataset.itemContent;
+// Save book details to localStorage when a book is clicked
+bookCoverGeneral.addEventListener('click', (event) => {
+    if (event.target.closest('.single-item')) {
+        const item = event.target.closest('.single-item');
+        details.length = 0;
+        console.log(details)
+        const title = item.dataset.itemName;
+        const author = item.dataset.itemAuthor;
+        const content = item.dataset.itemContent;
 
         details.push({
             itemTitle: title,
             itemAuthor: author,
             itemContent: content
+        });
+        console.log(details)
 
-        })
 
-        localStorage.setItem('details', JSON.stringify(details))
-        
-    })
-})
+        localStorage.setItem('details', JSON.stringify(details));
+    }
+});
 
-const hamburgerMenu = document.getElementById('hamburger-menu')
 
+// Hamburger menu toggle
+const hamburgerMenu = document.getElementById('hamburger-menu');
 hamburgerMenu.addEventListener('click', () => {
-    const menuLink = document.getElementById('navigation-mobile')
-    menuLink.classList.toggle('show')
-})
-
-
-//search
-const searchIcon = document.getElementById('search-icon')
-
-searchIcon.addEventListener('click', () => {
-    const searchInput = document.getElementById('search-input').value.toLowerCase();
-    const searchResults = book.filter(book => book.bookTitle.toLowerCase().includes(searchInput))
-    
-    if(searchResults.length){
-        renderBook = ``;
-        searchResults.forEach((result) => {
-            renderBook += `<a href="read.html" class="item-redirect"><div class="single-item" data-item-name="${result.bookTitle}" data-item-author="${result.bookAuthor}" data-item-content="${result.content}">
-    <img class="book-cover" src="${result.image}">
-    <div class="detail-container">
-        <h3 class="book-title">${result.bookTitle}</h3>
-        <p class="book-author">By &#183 ${result.bookAuthor}</p>
-    </div>
-    
-</div></a>`;
-            
-    document.querySelector('.book-cover-general').innerHTML = renderBook;
-
-        })
-    } 
-
-    else {
-        document.querySelector('.book-cover-general').innerHTML = `No Results Found`;
-    }
-})
-
-searchInput.addEventListener('input', () => {
-    const searchInput = document.getElementById('search-input').value.toLowerCase();
-    const searchResults = book.filter(book => book.bookTitle.toLowerCase().includes(searchInput))
-    
-    if(searchResults.length){
-        renderBook = ``;
-        searchResults.forEach((result) => {
-            renderBook += `<a href="read.html" class="item-redirect"><div class="single-item" data-item-name="${result.bookTitle}" data-item-author="${result.bookAuthor}" data-item-content="${result.content}">
-    <img class="book-cover" src="${result.image}">
-    <div class="detail-container">
-        <h3 class="book-title">${result.bookTitle}</h3>
-        <p class="book-author">By &#183 ${result.bookAuthor}</p>
-    </div>
-    
-</div></a>`;
-            
-    document.querySelector('.book-cover-general').innerHTML = renderBook;
-
-        })
-    } 
-
-    else {
-        
-    document.querySelector('.book-cover-general').innerHTML = `No Results Found`;
-    }
-})
-
-
-searchInput.addEventListener('keydown', (event) => {
-
-    if(event.key === 'Enter') {
-        const searchInput = document.getElementById('search-input').value.toLowerCase();
-    const searchResults = book.filter(book => book.bookTitle.toLowerCase().includes(searchInput))
-    
-    if(searchResults.length){
-        renderBook = ``;
-        searchResults.forEach((result) => {
-            renderBook += `<a href="read.html" class="item-redirect"><div class="single-item" data-item-name="${result.bookTitle}" data-item-author="${result.bookAuthor}" data-item-content="${result.content}">
-    <img class="book-cover" src="${result.image}">
-    <div class="detail-container">
-        <h3 class="book-title">${result.bookTitle}</h3>
-        <p class="book-author">By &#183 ${result.bookAuthor}</p>
-    </div>
-    
-</div></a>`;
-            
-    document.querySelector('.book-cover-general').innerHTML = renderBook;
-
-        })
-    } 
-
-    else {
-        
-    document.querySelector('.book-cover-general').innerHTML = `No Results Found`;
-    }
-    }
-    
-})
+    const menuLink = document.getElementById('navigation-mobile');
+    menuLink.classList.toggle('show');
+});
