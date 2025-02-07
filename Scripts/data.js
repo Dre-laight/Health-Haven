@@ -142,33 +142,334 @@ can help spot anxiety early and provide timely treatment.<br/><br/>
     `
 }, {
     id: 4,
-    image:'Images/keep fit.jpg',
-    bookTitle: 'HOW TO KEEP FIT',
+    image:'Images/influenza.jpg',
+    bookTitle: 'INFLUENZA',
     bookAuthor: 'Cyril Dzogolo',
     content: ``
 
 }, {
     id: 5,
-    image: 'Images/skincare.jpg',
-    bookTitle: 'HOW TO TAKE GOOD CARE OF YOUR SKIN',
+    image: 'Images/hypertension.jpg',
+    bookTitle: 'HYPERTENSION',
     bookAuthor: 'Soledad Arthur',
     content: ''
 
 }, {
     id: 6,
-    image: 'Images/nutrition.jpg',
-    bookTitle: '9 NUTRITIOUS FOODS FOR A LONG LIFE',
+    image: 'Images/ebola.jpg',
+    bookTitle: 'Ebola',
     bookAuthor: 'Eyram Donkor',
     content: ''
 
 },  {
     id: 7,
-    image: 'Images/injury.jpg',
-    bookTitle: 'HOW TO HANDLE PHYSICAL INJURIES',
+    image: 'Images/rheumatoid_arthritis.jpg',
+    bookTitle: 'RHEUMATOID ARTHRITIS',
     bookAuthor: 'Steven Selorm Amedzro',
     content: ''
 
-} 
+}, {
+    id: 8,
+    image: 'Images/sickle_cell_anemia.jpg',
+    bookTitle: 'SICKLE CELL ANEMIA',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 9,
+    image: 'Images/epilepsy.jpg',
+    bookTitle: 'EPILEPSY',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 10,
+    image: 'Images/hyperthyroidism.jpg',
+    bookTitle: 'HYPERTHYROIDISM',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 11,
+    image: 'Images/depression.jpg',
+    bookTitle: 'DEPRESSION',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 12,
+    image: 'Images/tuberculosis.jpg',
+    bookTitle: 'TUBERCULOSIS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 13,
+    image: 'Images/copd.jpg',
+    bookTitle: 'CHRONIC OBSTRUCTIVE PULMONARY DISEASE[COPD]',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 14,
+    image: 'Images/cystic_fibriosis.jpg',
+    bookTitle: 'CYSTIC FIBROSIS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 15,
+    image: 'Images/lupus.jpg',
+    bookTitle: 'LUPUS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 16,
+    image: `Images/parkinson's_disease.jpg`,
+    bookTitle: `PARKINSON'S DISEASE`,
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 17,
+    image: 'Images/nutrition.jpg',
+    bookTitle: 'HYPOTHYROIDISM',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 18,
+    image: 'Images/bipolar_disorder.jpg',
+    bookTitle: 'BIPOLAR DISORDER',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 19,
+    image: 'Images/covid-19.jpg',
+    bookTitle: 'COVID-19',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 20,
+    image: 'Images/coronary_artery_disease.jpg',
+    bookTitle: 'CORONARY ARTERY DISEASE',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 21,
+    image: `Images/huntinton's_disease.jpg`,
+    bookTitle: `HUNTINGTON'S DISEASE`,
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 22,
+    image: 'Images/multiple sclerosis.jpg',
+    bookTitle: 'MULTIPLE SCLEROSIS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 23,
+    image: 'Images/stroke.jpg',
+    bookTitle: 'STROKE',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 24,
+    image: 'Images/pku.jpg',
+    bookTitle: 'PHENYLKETONURIA',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 25,
+    image: 'Images/schizophrenia.jpg',
+    bookTitle: 'SCHIZOPHRENIA',
+    bookAuthor: 'André Edinam Fiawornu',
+    content: ''
+
+}, {
+    id: 26,
+    image: 'Images/malaria.jpg',
+    bookTitle: 'MALARIA',
+    bookAuthor: 'André Edinam Fiawornu',
+    content: ''
+
+}, {
+    id: 27,
+    image: 'Images/asthma.jpg',
+    bookTitle: 'Asthma',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 28,
+    image: 'Images/down_syndrome.jpg',
+    bookTitle: 'DOWN SYNDROME',
+    bookAuthor: 'André Edinam Fiawornu',
+    content: ''
+
+}, {
+    id: 29,
+    image: `Images/hashimoto's_thyroiditis.jpg`,
+    bookTitle: `HASHIMOTO'S THYROIDITIS`,
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 30,
+    image: 'Images/migraine.jpg',
+    bookTitle: 'MIGRAINE',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 31,
+    image: 'Images/metabolic_syndrome.jpg',
+    bookTitle: 'METABOLIC SYNDROME',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 32,
+    image: 'Images/ocd.jpg',
+    bookTitle: 'OBSESSIVE-COMPULSIVE DISORDER[OCD]',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 33,
+    image: 'Images/hepatitis_b.jpg',
+    bookTitle: 'HEPATITIS B',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 34,
+    image: 'Images/osteoarthritis.jpg',
+    bookTitle: 'OSTEOARTHRITIS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 35,
+    image: 'Images/hemophilia.jpg',
+    bookTitle: 'HEMOPHILIA',
+    bookAuthor: 'André Edinam Fiawornu',
+    content: ''
+
+}, {
+    id: 36,
+    image: 'Images/psoriasis.jpg',
+    bookTitle: 'PSORIASIS',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 37,
+    image: 'Images/gaucher_disease.jpg',
+    bookTitle: 'GAUCHER DISEASE',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 38,
+    image: 'Images/ptsd.jpg',
+    bookTitle: 'POST-TRAUMATIC STRESS DISORDER',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 39,
+    image: 'Images/dengue_fever.jpg',
+    bookTitle: 'DENGUE FEVER',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 40,
+    image: 'Images/chronic_kidney_disease.jpg',
+    bookTitle: 'CHRONIC KIDNEY DISEASE[CKD]',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 41,
+    image: 'Images/marfan_syndrome.jpg',
+    bookTitle: 'MARFAN SYNDROME',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 42,
+    image: "Images/chron's_disease.jpg",
+    bookTitle: `CROHN'S DISEASE`,
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 43,
+    image: 'Images/als.jpg',
+    bookTitle: 'AMYOTROHIC LATERAL SCLEROSIS[ALS]',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 44,
+    image: 'Images/wilsons_disease.jpg',
+    bookTitle: `WILSON'S DISEASE`,
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 45,
+    image: 'Images/adhd.jpg',
+    bookTitle: 'ATTENTION-DEFICIT [HYPERACTVITY DISORDER]',
+    bookAuthor: 'André Edinam Fiawornu',
+    content: ''
+
+}, {
+    id: 46,
+    image: 'Images/tay_sachs disease.jpg',
+    bookTitle: 'TAY-SACHS DISEASE',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 47,
+    image: 'Images/insomnia.jpg',
+    bookTitle: 'INSOMNIA',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 48,
+    image: 'Images/diarrhoea.jpg',
+    bookTitle: 'DIARRHOEA',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 49,
+    image: 'Images/rabies.jpg',
+    bookTitle: 'RABIES',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}, {
+    id: 50,
+    image: 'Images/cancer.jpg',
+    bookTitle: 'CANCER',
+    bookAuthor: 'Eyram Donkor',
+    content: ''
+
+}
 ];
 
 
