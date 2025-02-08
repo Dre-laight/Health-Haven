@@ -1449,7 +1449,7 @@ care, such as intravenous fluids, blood transfusions, and management of organ fa
 }, {
     id: 27,
     image: 'Images/asthma.jpg',
-    bookTitle: 'Asthma',
+    bookTitle: 'ASTHMA',
     bookAuthor: 'Selinam Gakpetor',
     content: `<strong>What is Asthma?</strong><br/>
 Asthma is a chronic respiratory condition that affects the airways in the lungs, causing them to become i
@@ -1704,140 +1704,1106 @@ can also play a role in preventing migraines.<br/><br/>
     image: 'Images/metabolic_syndrome.jpg',
     bookTitle: 'METABOLIC SYNDROME',
     bookAuthor: 'Selinam Gakpetor',
-    content: ``
+    content: `<strong>What is Metabolic Syndrome?</strong><br/>
+Metabolic syndrome is a cluster of conditions that increase the risk of developing heart disease, stroke, and 
+type 2 diabetes. These conditions include <span>high blood pressure</span>, <span>high blood sugar</span>, 
+<span>excess abdominal fat</span>, and <span>abnormal cholesterol levels</span>. Having one of these risk 
+factors increases the likelihood of developing others, making metabolic syndrome a serious health concern. 
+The exact cause is not completely understood, but factors such as poor diet, lack of exercise, and genetics 
+play a significant role.<br/><br/>
+
+<strong>Symptoms of Metabolic Syndrome</strong><br/>
+The symptoms of metabolic syndrome are often not noticeable. However, common signs include <span>increased 
+waist circumference</span> (often referred to as abdominal obesity or 'apple-shaped' body), <span>high blood 
+pressure</span>, <span>elevated blood sugar</span>, and <span>high triglycerides</span> or low levels of <span>HDL (good) cholesterol</span>. Because the syndrome encompasses multiple risk factors, people with metabolic syndrome are at higher risk for developing <span>cardiovascular diseases</span> and <span>diabetes</span> if left untreated.<br/><br/>
+
+<strong>What Causes Metabolic Syndrome?</strong><br/>
+Metabolic syndrome is primarily caused by factors such as <span>insulin resistance</span>, where the body 
+doesn’t effectively respond to insulin, and <span>obesity</span>, particularly excess fat around the abdomen. 
+Other contributing factors include <span>lack of physical activity</span>, <span>poor diet</span> (high in 
+processed foods, sugars, and unhealthy fats), <span>genetic factors</span>, and <span>aging</span>. A family 
+history of heart disease, type 2 diabetes, or hypertension can also increase the risk of developing metabolic 
+syndrome. Additionally, <span>smoking</span> and <span>excessive alcohol consumption</span> can worsen the condition.
+<br/><br/>
+
+<strong>How is Metabolic Syndrome Diagnosed?</strong><br/>
+Metabolic syndrome is diagnosed when an individual has at least three of the following risk factors: 
+<span>abdominal obesity</span> (waist circumference over 40 inches in men or 35 inches in women), <span>high 
+blood pressure</span> (130/85 mmHg or higher), <span>elevated blood sugar</span> (fasting glucose level of 100 mg/dL or 
+higher), <span>high triglycerides</span> (150 mg/dL or higher), and <span>low HDL cholesterol</span> (less than 
+40 mg/dL in men or 50 mg/dL in women). A healthcare provider will typically assess these factors through <span>
+blood tests</span>, <span>blood pressure readings</span>, and <span>physical exams</span>.<br/><br/>
+
+<strong>How is Metabolic Syndrome Treated?</strong><br/>
+The treatment for metabolic syndrome focuses on addressing the individual risk factors through <span>lifestyle 
+changes</span> and <span>medications</span>. Common treatments include <span>dietary changes</span> (adopting a
+healthier, low-sugar, and high-fiber diet), <span>increased physical activity</span> (aiming for at least 30 
+minutes of exercise most days), and <span>weight loss</span> (losing even a small amount of weight can reduce 
+risk factors). Medications may include <span>statins</span> for high cholesterol, <span>blood pressure medications</span>, 
+and <span>metformin</span> for managing blood sugar levels. Managing stress and quitting smoking are also 
+important aspects of treatment.<br/><br/>
+
+<strong>How is Metabolic Syndrome Prevented?</strong><br/>
+Metabolic syndrome can often be prevented by maintaining a healthy lifestyle. This includes <span>eating a 
+balanced diet</span> rich in fruits, vegetables, whole grains, and lean proteins, while limiting processed 
+foods, refined sugars, and unhealthy fats. Regular <span>physical activity</span>, such as brisk walking, 
+cycling, or swimming, can help maintain a healthy weight and improve cardiovascular health. <span>Not smoking
+</span>, <span>limiting alcohol consumption</span>, and <span>managing stress</span> are also key to preventing 
+metabolic syndrome. Regular check-ups with a healthcare provider to monitor blood pressure, cholesterol, and 
+blood sugar levels are also essential for early detection and prevention.<br/><br/>
+`
 
 }, {
     id: 32,
     image: 'Images/ocd.jpg',
     bookTitle: 'OBSESSIVE-COMPULSIVE DISORDER[OCD]',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `<strong>What is Obsessive-Compulsive Disorder (OCD)?</strong><br/>
+Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by recurrent, unwanted thoughts 
+(obsessions) and repetitive behaviors or mental acts (compulsions). Individuals with OCD may feel driven to 
+perform certain actions or rituals in response to the obsessions to reduce anxiety or prevent a feared event. 
+While the behaviors may provide temporary relief, they often interfere with daily life and can cause significant 
+distress.<br/><br/>
+
+<strong>Symptoms of Obsessive-Compulsive Disorder</strong><br/>
+The main symptoms of OCD include persistent and intrusive <span>obsessions</span> (unwanted thoughts, images, 
+or urges) that cause anxiety or discomfort, and <span>compulsions</span> (repetitive behaviors or mental acts) 
+performed to alleviate that anxiety. Common compulsions include <span>washing hands</span>, <span>checking 
+things repeatedly</span>, or <span>counting</span> in a specific pattern. Other symptoms may include <span>
+avoiding situations</span> that trigger obsessions, <span>mental rituals</span>, and <span>extreme perfectionism</span>. 
+The severity of symptoms can vary, and they may interfere with daily functioning, relationships, and work.<br/><br/>
+
+<strong>What Causes Obsessive-Compulsive Disorder?</strong><br/>
+The exact cause of OCD is not fully understood, but it is thought to be a combination of <span>genetic</span>, 
+<span>biological</span>, and <span>environmental factors</span>. Studies suggest that abnormalities in the 
+brain's <span>serotonin</span> system may play a role in the development of OCD. A family history of OCD or 
+other mental health disorders may increase the risk of developing the condition. Stressful life events, trauma, 
+or infections (such as streptococcal throat infections) have also been suggested as potential triggers for OCD 
+in some individuals.<br/><br/>
+
+<strong>How is Obsessive-Compulsive Disorder Diagnosed?</strong><br/>
+OCD is diagnosed based on a person's medical history, symptoms, and behavior patterns. A <span>mental health 
+professional</span> may conduct interviews or use structured questionnaires to assess the presence of obsessions 
+and compulsions. There are no specific laboratory tests to diagnose OCD, but blood tests or imaging studies may
+be used to rule out other conditions. The <span>Yale-Brown Obsessive Compulsive Scale (Y-BOCS)</span> is a 
+commonly used tool to assess the severity of OCD symptoms.<br/><br/>
+
+<strong>How is Obsessive-Compulsive Disorder Treated?</strong><br/>
+Treatment for OCD typically involves a combination of <span>cognitive-behavioral therapy (CBT)</span> and 
+<span>medications</span>. The most effective form of CBT for OCD is called <span>exposure and response prevention 
+(ERP)</span>, which helps individuals confront their fears and resist the urge to perform compulsions. Medications, 
+such as <span>selective serotonin reuptake inhibitors (SSRIs)</span> like fluoxetine, sertraline, or fluvoxamine, 
+can help regulate serotonin levels and reduce OCD symptoms. In more severe cases, <span>transcranial magnetic 
+stimulation (TMS)</span> or <span>deep brain stimulation (DBS)</span> may be considered.<br/><br/>
+
+<strong>How is Obsessive-Compulsive Disorder Prevented?</strong><br/>
+There is no guaranteed way to prevent OCD, but early intervention can help reduce the severity and impact of 
+symptoms. Individuals at risk for OCD, particularly those with a family history of the disorder, should seek 
+help early if they begin to experience intrusive thoughts or compulsive behaviors. Maintaining <span>mental 
+health</span> through stress management, <span>healthy coping strategies</span>, and <span>therapy</span> may 
+help manage symptoms and prevent them from worsening. Regular mental health check-ups and seeking support can 
+also be important in preventing the escalation of OCD.<br/><br/>
+`
 
 }, {
     id: 33,
     image: 'Images/hepatitis_b.jpg',
     bookTitle: 'HEPATITIS B',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `<strong>What is Hepatitis B?</strong><br/>
+Hepatitis B is a viral infection that attacks the liver, causing inflammation and potentially leading to 
+chronic liver disease, cirrhosis, and liver cancer. The infection is caused by the <span>hepatitis B virus 
+(HBV)</span> and is transmitted through contact with infected blood, semen, or other body fluids. It can range 
+from a mild illness lasting a few weeks (acute hepatitis B) to a serious long-term condition (chronic hepatitis B). 
+Chronic hepatitis B can lead to severe liver damage over time if not properly managed.<br/><br/>
+
+<strong>Symptoms of Hepatitis B</strong><br/>
+Many people with hepatitis B do not experience symptoms, especially during the early stages of infection. 
+However, some individuals may develop symptoms such as <span>fatigue</span>, <span>jaundice</span> 
+(yellowing of the skin or eyes), <span>dark urine</span>, <span>abdominal pain</span> (especially in the upper 
+right side), <span>loss of appetite</span>, <span>nausea</span>, <span>vomiting</span>, and <span>joint pain
+</span>. Chronic hepatitis B may not show symptoms until significant liver damage has occurred, but long-term 
+infection can increase the risk of cirrhosis and liver cancer.<br/><br/>
+
+<strong>What Causes Hepatitis B?</strong><br/>
+Hepatitis B is caused by the <span>hepatitis B virus (HBV)</span>, which is transmitted through direct contact 
+with the blood or body fluids of an infected person. This can occur through sharing needles, unprotected sexual 
+contact, or from an infected mother to her baby during childbirth. It can also spread through contact with 
+contaminated medical equipment or blood transfusions in areas where screening practices are inadequate. While 
+the virus can be passed from person to person, not everyone who is exposed to HBV will develop the infection.<br/><br/>
+
+<strong>How is Hepatitis B Diagnosed?</strong><br/>
+Hepatitis B is diagnosed through a series of blood tests that detect the presence of the virus or antibodies 
+against it. Common tests include <span>hepatitis B surface antigen (HBsAg)</span> to confirm infection, 
+<span>hepatitis B e antigen (HBeAg)</span> to determine if the virus is actively replicating, and <span>hepatitis B DNA 
+test</span> to measure the amount of viral DNA in the blood. Additionally, liver function tests can help assess 
+liver damage, and imaging studies like <span>ultrasound</span> may be used to evaluate the liver's health.<br/><br/>
+
+<strong>How is Hepatitis B Treated?</strong><br/>
+For <span>acute hepatitis B</span>, treatment typically focuses on managing symptoms while the body clears the 
+virus naturally. In <span>chronic hepatitis B</span>, antiviral medications such as <span>tenofovir</span> or 
+<span>entecavir</span> may be prescribed to suppress the virus and reduce the risk of liver damage. In some cases, 
+<span>interferon therapy</span> may be recommended. Regular monitoring of liver function, viral load, and 
+liver health is essential for those with chronic hepatitis B to prevent complications such as cirrhosis or 
+liver cancer.<br/><br/>
+
+<strong>How is Hepatitis B Prevented?</strong><br/>
+The most effective way to prevent hepatitis B is through vaccination. The <span>hepatitis B vaccine</span> is 
+safe and effective, typically administered in a series of three doses. It is recommended for all infants, 
+children, and adults at high risk of exposure to HBV. Other preventive measures include practicing safe sex 
+(using condoms), avoiding sharing needles or personal items that may be contaminated with blood, and ensuring 
+proper infection control practices in healthcare settings. If a pregnant woman is infected with hepatitis B, 
+antiviral treatment may be recommended to reduce the risk of transmitting the virus to the baby.<br/><br/>
+`
 
 }, {
     id: 34,
     image: 'Images/osteoarthritis.jpg',
     bookTitle: 'OSTEOARTHRITIS',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `<strong>What is Osteoarthritis?</strong><br/>
+Osteoarthritis (OA) is a degenerative joint disease that occurs when the cartilage that cushions the joints 
+breaks down over time, causing pain, stiffness, swelling, and decreased mobility. OA is the most common form of
+arthritis and typically affects the knees, hips, hands, and spine. It is more common as people age, though it 
+can also result from joint injuries or genetics. The condition can progress slowly and worsen over time, 
+affecting daily activities and quality of life.<br/><br/>
+
+<strong>Symptoms of Osteoarthritis</strong><br/>
+The symptoms of osteoarthritis often develop gradually and can vary depending on the affected joint. Common 
+signs and symptoms include <span>joint pain</span> that worsens with activity or weight-bearing, <span>joint 
+stiffness</span>, especially after periods of inactivity, <span>swelling</span> or <span>tenderness</span> 
+around the affected joint, <span>reduced range of motion</span>, and <span>grating sensations</span> or 
+clicking sounds when moving the joint. In more severe cases, the pain may persist even at rest, and joint 
+deformities can develop.<br/><br/>
+
+<strong>What Causes Osteoarthritis?</strong><br/>
+Osteoarthritis is primarily caused by wear and tear on the joints over time. As the cartilage in the joint 
+deteriorates, the bones may begin to rub against each other, leading to pain and inflammation. Several factors 
+can contribute to the development of OA, including <span>age</span> (older adults are at higher risk), <span>joint 
+injuries</span> (previous trauma or overuse), <span>genetics</span> (family history of OA), and <span>obesity</span> 
+(excess weight puts added stress on weight-bearing joints). Other factors, such as <span>gender</span> (women are more 
+likely to develop OA, especially after menopause) and <span>inactivity</span>, can also increase the risk.<br/><br/>
+
+<strong>How is Osteoarthritis Diagnosed?</strong><br/>
+Osteoarthritis is diagnosed based on a physical exam, medical history, and imaging tests. During a physical 
+exam, the doctor will assess joint tenderness, swelling, and range of motion. X-rays are commonly used to 
+confirm the diagnosis by showing joint space narrowing, bone spurs, and cartilage loss. In some cases, <span>
+MRI scans</span> or <span>joint fluid analysis</span> may be used to rule out other conditions and evaluate 
+the extent of cartilage damage.<br/><br/>
+
+<strong>How is Osteoarthritis Treated?</strong><br/>
+While there is no cure for osteoarthritis, treatment aims to relieve symptoms and improve joint function. 
+<span>Medications</span> such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) can help 
+reduce pain and inflammation. <span>Physical therapy</span> can strengthen the muscles around the affected 
+joint and improve flexibility. In some cases, <span>corticosteroid injections</span> or <span>hyaluronic acid 
+injections</span> may provide temporary relief. For advanced cases, <span>surgical options</span> such as 
+joint replacement may be necessary to improve function and reduce pain.<br/><br/>
+
+<strong>How is Osteoarthritis Prevented?</strong><br/>
+Osteoarthritis cannot be completely prevented, but there are several ways to reduce the risk or slow its 
+progression. Maintaining a <span>healthy weight</span> helps reduce stress on weight-bearing joints, such as 
+the knees and hips. <span>Regular physical activity</span>, including low-impact exercises like walking, 
+swimming, or cycling, can strengthen muscles, improve flexibility, and support joint health. Avoiding joint 
+injuries, using proper body mechanics, and wearing supportive footwear can also help prevent OA. Early 
+treatment of joint injuries and seeking medical advice at the first signs of OA may help manage symptoms 
+before they worsen.<br/><br/>
+`
 
 }, {
     id: 35,
     image: 'Images/hemophilia.jpg',
     bookTitle: 'HEMOPHILIA',
     bookAuthor: 'André Edinam Fiawornu',
-    content: ''
+    content: `<strong>What is Hemophilia?</strong><br/>
+Hemophilia is a rare genetic disorder in which the blood does not clot properly, leading to excessive bleeding 
+or bruising. The condition is caused by a deficiency in clotting factors, proteins in the blood that help stop 
+bleeding. There are two main types: <span>Hemophilia A</span> (caused by a deficiency of clotting factor VIII) 
+and <span>Hemophilia B</span> (caused by a deficiency of clotting factor IX). Hemophilia is usually inherited 
+and is more common in males, though females can be carriers of the gene.<br/><br/>
+
+<strong>Symptoms of Hemophilia</strong><br/>
+The symptoms of hemophilia can vary depending on the severity of the clotting factor deficiency. Common symptoms 
+include <span>frequent and prolonged bleeding</span> from cuts or injuries, <span>easy bruising</span>, <span>spontaneous 
+bleeding</span> (especially into joints or muscles), and <span>swelling or pain in the joints</span> due to 
+internal bleeding. Individuals with severe hemophilia may experience more frequent and spontaneous bleeding 
+episodes, while those with mild hemophilia may only have problems after trauma or surgery.<br/><br/>
+
+<strong>What Causes Hemophilia?</strong><br/>
+Hemophilia is caused by a genetic mutation that affects the production of clotting factors. The disorder is 
+typically inherited in an <span>X-linked recessive</span> pattern, which means the gene is located on the X 
+chromosome. Since males have only one X chromosome, they are more likely to be affected by hemophilia. Females, 
+who have two X chromosomes, are generally carriers of the disorder and may not show symptoms. In rare cases, 
+hemophilia can result from a spontaneous mutation in the gene that produces the clotting factors.<br/><br/>
+
+<strong>How is Hemophilia Diagnosed?</strong><br/>
+Hemophilia is diagnosed through <span>blood tests</span> that measure the levels of clotting factors in the 
+blood. The <span>partial thromboplastin time (PTT)</span> test is commonly used to assess how long it takes for
+blood to clot, and the <span>factor assay</span> measures the specific clotting factor levels. Genetic testing
+can also confirm the diagnosis, particularly in families with a history of hemophilia. Prenatal testing is 
+available for pregnant women who are carriers of the hemophilia gene.<br/><br/>
+
+<strong>How is Hemophilia Treated?</strong><br/>
+Treatment for hemophilia typically involves <span>clotting factor replacement therapy</span>, where the missing
+clotting factors (either factor VIII for hemophilia A or factor IX for hemophilia B) are infused into the bloodstream 
+to help the blood clot properly. In some cases, people with mild hemophilia may only need treatment during 
+surgeries or after trauma. <span>Desmopressin</span> is sometimes used for hemophilia A to help release stored 
+factor VIII in the body. For joint and muscle bleeding, <span>rest, ice, compression, and elevation (RICE)</span> 
+may be recommended. New treatments, such as gene therapy, are also being explored to provide long-term solutions.<br/><br/>
+
+<strong>How is Hemophilia Prevented?</strong><br/>
+Since hemophilia is a genetic disorder, it cannot be prevented. However, early diagnosis and proper treatment can help 
+manage the condition and prevent complications. Genetic counseling is recommended for families with a history 
+of hemophilia to understand the risks and options for future pregnancies. People with hemophilia should take 
+precautions to avoid injuries, use protective gear during physical activities, and inform healthcare providers 
+of their condition before undergoing surgery or dental procedures.<br/><br/>
+`
 
 }, {
     id: 36,
     image: 'Images/psoriasis.jpg',
     bookTitle: 'PSORIASIS',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `<strong>What is Psoriasis?</strong><br/>
+Psoriasis is a chronic autoimmune condition that causes the rapid buildup of skin cells, resulting in thick, 
+scaly patches on the skin. These patches, called <span>plaques</span>, are most commonly found on the scalp, 
+elbows, knees, and lower back, though they can appear anywhere on the body. Psoriasis occurs when the immune 
+system mistakenly attacks healthy skin cells, speeding up their growth cycle. The condition can vary in severity, 
+from mild patches to widespread skin involvement. Psoriasis is not contagious.<br/><br/>
+
+<strong>Symptoms of Psoriasis</strong><br/>
+The primary symptom of psoriasis is the development of <span>red, inflamed patches</span> covered with silvery-white 
+scales. Other common symptoms include <span>itching</span>, <span>dry or cracked skin</span> that may bleed, 
+<span>burning sensations</span>, and <span>thickened or ridged nails</span>. In some cases, the joints may 
+also be affected, causing <span>psoriatic arthritis</span>, which leads to joint pain, stiffness, and swelling. 
+The severity and appearance of the plaques can vary, and flare-ups may be triggered by stress, infections, or 
+environmental factors.<br/><br/>
+
+<strong>What Causes Psoriasis?</strong><br/>
+The exact cause of psoriasis is not fully understood, but it is believed to be a combination of <span>genetic</span> 
+and <span>environmental factors</span>. Psoriasis occurs when the immune system becomes overactive and mistakenly 
+attacks healthy skin cells, causing them to multiply rapidly. This accelerated growth results in the 
+formation of plaques. Family history plays a significant role, as psoriasis tends to run in families. 
+Triggers for flare-ups can include <span>stress</span>, <span>skin injury</span> (such as cuts or sunburns), 
+certain <span>infections</span> (like strep throat), and medications that can worsen the condition.<br/><br/>
+
+<strong>How is Psoriasis Diagnosed?</strong><br/>
+Psoriasis is typically diagnosed through a <span>physical exam</span> and a review of the patient's medical 
+history. A healthcare provider may examine the skin, nails, and joints for characteristic signs of psoriasis. 
+In some cases, a <span>skin biopsy</span> may be performed to confirm the diagnosis and rule out other skin 
+conditions. Blood tests are generally not necessary, but they may be used to assess overall health or if 
+psoriatic arthritis is suspected.<br/><br/>
+
+<strong>How is Psoriasis Treated?</strong><br/>
+Although there is no cure for psoriasis, treatment can help manage symptoms and reduce flare-ups. Treatment 
+options include <span>topical treatments</span> such as corticosteroids, vitamin D analogs, and topical 
+retinoids, which can help reduce inflammation and slow skin cell turnover. <span>Phototherapy</span>, which 
+involves exposing the skin to controlled ultraviolet (UV) light, may be used for more widespread or severe 
+cases. For moderate to severe psoriasis, <span>systemic treatments</span> such as oral medications or biologic 
+therapies (injections or infusions) may be prescribed to target the immune system. In cases of psoriatic arthritis, 
+treatment may involve joint-specific therapies.<br/><br/>
+
+<strong>How is Psoriasis Prevented?</strong><br/>
+Psoriasis cannot be prevented, but it can often be managed with lifestyle changes and appropriate treatment. 
+Avoiding known triggers, such as <span>stress</span>, <span>skin injuries</span>, and certain medications, can 
+help reduce the frequency of flare-ups. Maintaining a <span>healthy lifestyle</span>, including a balanced diet, 
+regular exercise, and staying hydrated, can help support overall health and improve skin condition. Moisturizing 
+regularly and using gentle skincare products can also help reduce skin irritation and prevent flare-ups. Patients 
+should work closely with their healthcare provider to create an individualized treatment plan.<br/><br/>
+`
 
 }, {
     id: 37,
     image: 'Images/gaucher_disease.jpg',
     bookTitle: 'GAUCHER DISEASE',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Gaucher Disease?</strong><br/>
+Gaucher disease is a rare genetic disorder that occurs when a deficiency of the enzyme <span>glucocerebrosidase</span> 
+leads to the accumulation of fatty substances called <span>lipids</span> in certain organs, especially the 
+liver, spleen, and bone marrow. This accumulation causes damage to these organs and can lead to various 
+symptoms. Gaucher disease is inherited in an <span>autosomal recessive</span> pattern, meaning that a person 
+must inherit two copies of the defective gene, one from each parent, to develop the disease. There are three 
+main types of Gaucher disease: <span>Type 1</span> (non-neuronopathic), <span>Type 2</span> (acute neuronopathic), 
+and <span>Type 3</span> (chronic neuronopathic).<br/><br/>
+
+<strong>Symptoms of Gaucher Disease</strong><br/>
+Symptoms of Gaucher disease can vary depending on the type and severity of the condition. Common symptoms include 
+<span>enlarged liver (hepatomegaly)</span>, <span>enlarged spleen (splenomegaly)</span>, <span>bone pain</span> 
+and <span>bone fractures</span>, <span>fatigue</span>, <span>easy bruising</span>, <span>anemia</span> 
+(low red blood cell count), <span>low platelet count</span> (leading to bleeding issues), and <span>growth 
+problems</span> in children. In more severe cases, <span>neurological symptoms</span> such as seizures, muscle 
+spasms, and developmental delays may occur, especially in Types 2 and 3.<br/><br/>
+
+<strong>What Causes Gaucher Disease?</strong><br/>
+Gaucher disease is caused by mutations in the <span>GBA gene</span>, which provides instructions for making the
+enzyme glucocerebrosidase. This enzyme is responsible for breaking down a fatty substance called glucocerebroside 
+in the body. When the enzyme is deficient or absent, glucocerebroside accumulates in cells, primarily in the 
+liver, spleen, and bone marrow, causing damage to these organs and leading to the symptoms of Gaucher disease. 
+The condition is inherited in an autosomal recessive pattern, meaning both parents must carry a copy of the 
+mutated gene for their child to inherit the disease.<br/><br/>
+
+<strong>How is Gaucher Disease Diagnosed?</strong><br/>
+Gaucher disease is diagnosed through a combination of <span>clinical evaluation</span>, family history, and 
+<span>genetic testing</span>. A blood test to measure the activity of the <span>glucocerebrosidase enzyme</span> 
+is typically performed. If enzyme activity is low, further testing, including <span>genetic testing</span>, 
+can confirm the diagnosis by identifying mutations in the <span>GBA gene</span>. Imaging tests, such as <span>MRI</span> 
+or <span>bone scans</span>, can be used to assess organ involvement and bone damage. A <span>bone marrow biopsy</span> 
+may also be performed to check for lipid accumulation.<br/><br/>
+
+<strong>How is Gaucher Disease Treated?</strong><br/>
+Treatment for Gaucher disease focuses on managing symptoms and preventing complications. The most common treatment 
+is <span>enzyme replacement therapy (ERT)</span>, where synthetic glucocerebrosidase is infused into the body 
+to replace the missing enzyme. This can help reduce the accumulation of lipids in organs and improve symptoms 
+such as spleen and liver enlargement. In some cases, <span>substrate reduction therapy (SRT)</span> may be used, 
+which works by reducing the production of glucocerebroside. Pain management, blood transfusions for anemia, 
+and orthopedic treatments for bone damage may also be part of the treatment plan. For the more severe forms 
+(Types 2 and 3), additional neurological support may be required.<br/><br/>
+
+<strong>How is Gaucher Disease Prevented?</strong><br/>
+Since Gaucher disease is a genetic disorder, it cannot be prevented. However, genetic counseling is recommended 
+for individuals with a family history of the disease. Carrier testing can identify individuals who carry the 
+defective gene, and prenatal testing can determine if a fetus is at risk of developing Gaucher disease. Early 
+diagnosis and treatment can help manage the symptoms and improve quality of life. Regular monitoring by a 
+healthcare provider is essential to address any complications and provide appropriate care.<br/><br/>
+`
 
 }, {
     id: 38,
     image: 'Images/ptsd.jpg',
-    bookTitle: 'POST-TRAUMATIC STRESS DISORDER',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookTitle: 'POST-TRAUMATIC STRESS DISORDER [PTSD]',
+    bookAuthor: 'Lemuel Osae Boateng',
+    content:`<strong>What is Post-Traumatic Stress Disorder (PTSD)?</strong><br/>
+Post-Traumatic Stress Disorder (PTSD) is a mental health condition that develops after an individual experiences 
+or witnesses a traumatic event. The trauma could include incidents such as <span>military combat</span>, <
+span>natural disasters</span>, <span>physical or sexual assault</span>, <span>car accidents</span>, or other 
+life-threatening situations. PTSD is characterized by intense feelings of distress, reliving the traumatic 
+event, and avoiding situations that remind the individual of the trauma. It can significantly impact daily 
+life and functioning.<br/><br/>
+
+<strong>Symptoms of PTSD</strong><br/>
+Symptoms of PTSD are typically grouped into four categories: <span>intrusive thoughts</span>, <span>avoidance</span>, 
+<span>negative changes in mood or thinking</span>, and <span>hyperarousal</span>. Common symptoms include 
+<span>flashbacks</span> or <span>nightmares</span> related to the trauma, <span>avoidance of places or people</span> 
+that remind the person of the event, feelings of <span>numbness</span> or detachment, <span>irritability</span>, 
+<span>difficulty concentrating</span>, <span>sleep disturbances</span>, and being easily startled or on edge. 
+These symptoms can persist for months or years, impacting an individual's personal, social, and professional 
+life.<br/><br/>
+
+<strong>What Causes PTSD?</strong><br/>
+PTSD is caused by experiencing or witnessing a traumatic event that overwhelms the individual’s ability to 
+cope. The condition is influenced by a combination of <span>genetic</span>, <span>environmental</span>, and 
+<span>psychological factors</span>. People who have a family history of mental health conditions or who have 
+had previous traumatic experiences may be more vulnerable. The severity of the trauma, the person’s response 
+to it, and the availability of social support afterward also play a role in the development of PTSD. Not everyone 
+who experiences trauma will develop PTSD, but those with certain risk factors, such as a lack of support or a 
+history of mental health issues, are more likely to develop the condition.<br/><br/>
+
+<strong>How is PTSD Diagnosed?</strong><br/>
+PTSD is diagnosed through a combination of <span>clinical evaluation</span> and <span>psychological assessments</span>. 
+A mental health professional will assess the individual’s symptoms, medical history, and the traumatic events 
+that may have contributed to the condition. Diagnosis involves a thorough interview where the individual is 
+asked about their experiences and current symptoms. The <span>Diagnostic and Statistical Manual of Mental 
+Disorders (DSM-5)</span> criteria are used to establish a diagnosis of PTSD. In some cases, additional tests, 
+such as <span>self-report questionnaires</span> or <span>interviews</span> with family members, may be helpful.<br/><br/>
+
+<strong>How is PTSD Treated?</strong><br/>
+Treatment for PTSD typically includes a combination of <span>psychotherapy</span> and <span>medication</span>. The most 
+common form of therapy is <span>Cognitive Behavioral Therapy (CBT)</span>, particularly a type called <span>
+Prolonged Exposure Therapy (PE)</span>, which helps individuals gradually confront memories of the trauma and 
+develop healthier coping mechanisms. Another effective therapy is <span>Eye Movement Desensitization and Reprocessing 
+(EMDR)</span>, which uses guided eye movements to help process traumatic memories. Medications such as <span>antidepressants</span> 
+(e.g., selective serotonin reuptake inhibitors or SSRIs) may also be prescribed to help manage symptoms of 
+anxiety, depression, and irritability. Support groups and self-care practices, including mindfulness and 
+relaxation techniques, can also aid in recovery.<br/><br/>
+
+<strong>How is PTSD Prevented?</strong><br/>
+While PTSD cannot always be prevented, there are ways to reduce the risk of developing the disorder after 
+trauma. Early intervention is key—seeking <span>mental health support</span> soon after experiencing a 
+traumatic event can help reduce the likelihood of developing PTSD. Building a strong <span>social support 
+system</span>, engaging in <span>healthy coping mechanisms</span> (such as exercise and relaxation techniques), 
+and avoiding self-medicating with alcohol or drugs can all help prevent the onset of PTSD symptoms. For those 
+at higher risk, such as military personnel or first responders, <span>pre-deployment mental health training</span> 
+and <span>resilience programs</span> may reduce the likelihood of developing PTSD.<br/><br/>
+`
 
 }, {
     id: 39,
     image: 'Images/dengue_fever.jpg',
     bookTitle: 'DENGUE FEVER',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Dengue Fever?</strong><br/>
+Dengue fever is a viral illness transmitted by mosquitoes, primarily the <span>Aedes aegypti</span> mosquito. 
+It is common in tropical and subtropical regions. The virus that causes dengue fever can lead to high fever, 
+severe headache, pain behind the eyes, joint and muscle pain, skin rashes, and mild bleeding. In some cases, 
+the disease can progress to more severe forms, such as <span>dengue hemorrhagic fever</span> or <span>dengue 
+shock syndrome</span>, which can be life-threatening.<br/><br/>
+
+<strong>Symptoms of Dengue Fever</strong><br/>
+Common symptoms of dengue fever include <span>high fever</span>, <span>severe headache</span>, <span>pain 
+behind the eyes</span>, <span>joint and muscle pain</span> (often referred to as 'breakbone fever'), 
+<span>rash</span> that may appear a few days after the fever begins, and <span>mild bleeding</span> 
+(such as nosebleeds or gum bleeding). Other symptoms can include <span>nausea</span>, <span>vomiting</span>, 
+<span>fatigue</span>, and <span>loss of appetite</span>. The symptoms usually appear 4-10 days after being 
+bitten by an infected mosquito.<br/><br/>
+
+<strong>What Causes Dengue Fever?</strong><br/>
+Dengue fever is caused by the <span>dengue virus</span>, which has four distinct serotypes (DEN-1, DEN-2, DEN-3, and DEN-4). 
+The virus is transmitted through the bite of an infected mosquito, particularly the <span>Aedes aegypti</span> 
+mosquito. When a mosquito bites a person infected with the virus, the mosquito becomes infected and can transmit the virus to another person through subsequent bites. Once a person has been infected with one serotype, they may gain immunity to that specific strain but remain susceptible to the other three serotypes, which increases the risk of severe disease if re-infected.<br/><br/>
+
+<strong>How is Dengue Fever Diagnosed?</strong><br/>
+Dengue fever is diagnosed based on a combination of <span>clinical symptoms</span> and laboratory tests. A healthcare 
+provider will assess the patient's symptoms, medical history, and potential exposure to mosquitoes in endemic 
+areas. Blood tests, such as <span>dengue serology</span> or <span>PCR testing</span> (Polymerase Chain Reaction), 
+can detect the presence of the dengue virus or antibodies produced in response to the infection. Early diagnosis 
+is important, as it helps differentiate dengue from other similar illnesses and can guide treatment.<br/><br/>
+
+<strong>How is Dengue Fever Treated?</strong><br/>
+There is no specific antiviral treatment for dengue fever. Treatment focuses on managing symptoms and preventing 
+complications. <span>Supportive care</span> includes <span>hydration</span> (oral or intravenous fluids), 
+<span>pain relievers</span> (such as acetaminophen) to reduce fever and relieve pain, and <span>rest</span> to 
+help the body recover. For more severe forms, such as dengue hemorrhagic fever or dengue shock syndrome, 
+patients may require hospitalization for intensive care, blood transfusions, and close monitoring of vital 
+signs. <span>Avoiding aspirin</span> and nonsteroidal anti-inflammatory drugs (NSAIDs) is crucial, as these can 
+increase the risk of bleeding.<br/><br/>
+
+<strong>How is Dengue Fever Prevented?</strong><br/>
+The best way to prevent dengue fever is to reduce exposure to mosquitoes. Measures include using <span>mosquito 
+repellents</span>, wearing protective clothing (such as long sleeves and pants), and using <span>mosquito nets</span> 
+or screens, especially in areas where dengue is common. Eliminating mosquito breeding sites by removing stagnant 
+water from containers, tires, and other objects can help reduce the mosquito population. Vaccination against 
+dengue is available in some countries for individuals living in endemic areas or those who have been previously 
+infected, but it is not recommended for everyone.<br/><br/>
+`
 
 }, {
     id: 40,
     image: 'Images/chronic_kidney_disease.jpg',
     bookTitle: 'CHRONIC KIDNEY DISEASE[CKD]',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `<strong>What is Chronic Kidney Disease (CKD)?</strong><br/>
+Chronic Kidney Disease (CKD) is a long-term condition where the kidneys gradually lose their ability to function 
+properly. The kidneys are responsible for filtering waste products and excess fluids from the blood, maintaining 
+electrolyte balance, and regulating blood pressure. In CKD, the kidneys become damaged over time, which impairs 
+these essential functions. CKD is often progressive, meaning it can worsen over time, potentially leading to 
+kidney failure. Early stages of CKD may have few symptoms, which is why it can go unnoticed until the kidneys 
+are significantly damaged.<br/><br/>
+
+<strong>Symptoms of Chronic Kidney Disease</strong><br/>
+In the early stages of CKD, there may be no noticeable symptoms. As the disease progresses, common symptoms 
+include <span>fatigue</span>, <span>swelling in the ankles, feet, or legs</span> (due to fluid retention), 
+<span>changes in urination</span> (such as frequent urination at night or reduced urine output), <span>shortness of 
+breath</span>, <span>nausea</span>, <span>vomiting</span>, and <span>loss of appetite</span>. More advanced 
+stages of CKD may cause <span>confusion</span>, <span>itchy skin</span>, <span>muscle cramps</span>, and 
+<span>high blood pressure</span> that is difficult to control.<br/><br/>
+
+<strong>What Causes Chronic Kidney Disease?</strong><br/>
+The main causes of CKD are conditions that damage the kidneys over time. The two most common causes are 
+<span>diabetes</span> and <span>high blood pressure</span>. Diabetes can damage the blood vessels in the 
+kidneys, leading to kidney dysfunction, while high blood pressure can harm the kidneys by causing damage to 
+the blood vessels that filter waste. Other causes include <span>glomerulonephritis</span> (inflammation of the 
+kidney's filtering units), <span>polycystic kidney disease</span>, <span>recurrent kidney infections</span>, 
+<span>obstructive uropathy</span> (blockages in the urinary tract), and <span>family history</span> of kidney 
+disease. Lifestyle factors like poor diet, smoking, and lack of physical activity can also contribute to kidney 
+damage.<br/><br/>
+
+<strong>How is Chronic Kidney Disease Diagnosed?</strong><br/>
+CKD is diagnosed through a combination of <span>blood tests</span>, <span>urine tests</span>, and <span>imaging 
+studies</span>. A common blood test is the <span>serum creatinine</span> test, which measures kidney function 
+by assessing the amount of creatinine in the blood. <span>Glomerular filtration rate (GFR)</span> is also 
+calculated to estimate kidney function, and a GFR lower than 60 for three months or more is an indicator of 
+CKD. Urine tests can measure the presence of <span>protein</span> or <span>albumin</span> in the urine, which 
+can indicate kidney damage. Imaging studies such as <span>ultrasound</span> or <span>CT scans</span> may be 
+used to assess kidney size and detect any abnormalities.<br/><br/>
+
+<strong>How is Chronic Kidney Disease Treated?</strong><br/>
+Treatment for CKD focuses on managing the underlying causes, slowing the progression of the disease, and 
+relieving symptoms. For <span>diabetic kidney disease</span>, maintaining blood sugar control is crucial, 
+while for high blood pressure, <span>blood pressure medications</span> such as ACE inhibitors or angiotensin 
+receptor blockers (ARBs) are often prescribed. Dietary changes, including reducing salt and protein intake, 
+can help manage kidney function. In some cases, <span>diuretics</span> may be prescribed to reduce fluid 
+buildup. If CKD progresses to end-stage kidney failure, treatments such as <span>dialysis</span> (a process to 
+filter waste from the blood) or <span>kidney transplantation</span> may be necessary.<br/><br/>
+
+<strong>How is Chronic Kidney Disease Prevented?</strong><br/>
+Preventing CKD involves managing risk factors and maintaining a healthy lifestyle. Key preventive measures 
+include <span>controlling blood sugar</span> if you have diabetes, <span>maintaining healthy blood pressure
+</span>, avoiding smoking, and staying physically active. A <span>balanced diet</span> with limited salt and 
+protein intake, along with regular monitoring of kidney function, is also important. If you have a family 
+history of kidney disease or other risk factors, regular check-ups with your healthcare provider are essential 
+for early detection and management. Avoiding overuse of medications that can harm the kidneys, such as nonsteroidal 
+anti-inflammatory drugs (NSAIDs), is also recommended.<br/><br/>
+`
 
 }, {
     id: 41,
     image: 'Images/marfan_syndrome.jpg',
     bookTitle: 'MARFAN SYNDROME',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Marfan Syndrome?</strong><br/>
+Marfan syndrome is a rare genetic disorder that affects the body's connective tissue, which provides structure 
+and support to organs, muscles, and bones. This condition is caused by a mutation in the <span>FBN1 gene</span>, 
+which produces fibrillin-1, a protein that helps form the connective tissue. Marfan syndrome can affect many 
+parts of the body, including the heart, blood vessels, bones, joints, and eyes. The severity of the condition 
+can vary widely from person to person. Some people may have mild symptoms, while others experience more serious 
+complications, such as cardiovascular issues. <br/><br/>
+
+<strong>Symptoms of Marfan Syndrome</strong><br/>
+Common symptoms of Marfan syndrome include <span>tall stature</span>, <span>long limbs and fingers</span> 
+(often referred to as 'arachnodactyly'), <span>curved spine (scoliosis)</span>, and <span>chest deformities
+</span> such as a sunken or protruding chest. Other symptoms include <span>joint hypermobility</span> 
+(loose joints), <span>vision problems</span> like dislocated lenses or nearsightedness, and <span>heart-related issues</span> such as aortic dilation or aortic aneurysms. Many individuals with Marfan syndrome experience a combination of these symptoms, though some may not show all characteristics.<br/><br/>
+
+<strong>What Causes Marfan Syndrome?</strong><br/>
+Marfan syndrome is caused by mutations in the <span>FBN1 gene</span>, which provides the instructions for 
+making the fibrillin-1 protein. This protein plays an important role in the structure of connective tissue, 
+and its deficiency or dysfunction leads to weakened connective tissue. Marfan syndrome is inherited in an 
+<span>autosomal dominant</span> pattern, meaning an individual only needs one copy of the altered gene from 
+one parent to inherit the condition. However, in some cases, Marfan syndrome may occur as a result of a spontaneous 
+genetic mutation, even in individuals with no family history of the disorder.<br/><br/>
+
+<strong>How is Marfan Syndrome Diagnosed?</strong><br/>
+Marfan syndrome is diagnosed based on a combination of <span>clinical examination</span>, <span>family history
+</span>, and <span>genetic testing</span>. A healthcare provider will evaluate the individual’s physical 
+features, medical history, and any cardiovascular or eye symptoms. The <span>Ghent criteria</span> are used 
+to assess the likelihood of Marfan syndrome based on features such as skeletal, ocular, and cardiovascular 
+manifestations. Genetic testing can confirm the diagnosis by identifying mutations in the <span>FBN1 gene</span>. 
+Imaging studies, such as <span>echocardiograms</span> or <span>MRI</span> scans, are used to monitor heart and 
+blood vessel involvement.<br/><br/>
+
+<strong>How is Marfan Syndrome Treated?</strong><br/>
+Treatment for Marfan syndrome focuses on managing symptoms and preventing complications. <span>Cardiovascular 
+management</span> is crucial, as individuals with Marfan syndrome are at risk for aortic aneurysms and 
+dissections. Medications such as <span>beta-blockers</span> or <span>angiotensin receptor blockers (ARBs)</span> 
+may be prescribed to reduce stress on the heart and blood vessels. <span>Regular monitoring</span> with echocardiograms 
+is essential to detect changes in the aorta. Orthopedic treatments, such as <span>braces</span> or <span>surgery 
+for scoliosis</span>, may be necessary for bone and joint issues. Vision problems are treated with <span>corrective 
+lenses</span> or surgery for lens dislocation. In severe cases, <span>aortic surgery</span> may be required 
+to repair or replace a damaged aorta.<br/><br/>
+
+<strong>How is Marfan Syndrome Prevented?</strong><br/>
+Marfan syndrome cannot be prevented, as it is a genetic disorder. However, early diagnosis and regular 
+monitoring can help manage the condition and reduce the risk of serious complications. Family members of 
+individuals with Marfan syndrome may undergo <span>genetic counseling</span> and <span>testing</span> to 
+assess their risk of inheriting the condition. If a diagnosis is made, regular check-ups with a healthcare 
+provider—especially a cardiologist—are essential for monitoring heart health and preventing life-threatening 
+cardiovascular events.<br/><br/>
+`
 
 }, {
     id: 42,
     image: "Images/chron's_disease.jpg",
     bookTitle: `CROHN'S DISEASE`,
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `<strong>What is Crohn's Disease?</strong><br/>
+Crohn's disease is a type of inflammatory bowel disease (IBD) that causes chronic inflammation of the 
+gastrointestinal (GI) tract. It can affect any part of the digestive system, from the mouth to the anus, 
+though it most commonly affects the <span>small intestine</span> and <span>colon</span>. The inflammation 
+can result in symptoms like abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's 
+disease is unknown, but it is believed to involve an abnormal immune response, genetics, and environmental 
+factors.<br/><br/>
+
+<strong>Symptoms of Crohn's Disease</strong><br/>
+Symptoms of Crohn's disease vary depending on the severity and location of the inflammation. Common symptoms 
+include <span>abdominal pain</span> (often in the lower right abdomen), <span>chronic diarrhea</span>, <span>weight 
+loss</span>, <span>fatigue</span>, <span>fever</span>, and <span>blood in the stool</span>. In some cases, 
+people may experience <span>mouth sores</span> or <span>skin rashes</span>. More severe complications can 
+include <span>intestinal blockages</span>, <span>fistulas</span>, or <span>abscesses</span> in the digestive 
+tract.<br/><br/>
+
+<strong>What Causes Crohn's Disease?</strong><br/>
+The exact cause of Crohn's disease is not fully understood, but it is thought to involve a combination of 
+<span>genetic</span>, <span>immune</span>, and <span>environmental factors</span>. Individuals with a family 
+history of IBD are at a higher risk of developing Crohn's disease, suggesting a genetic component. It is believed 
+that an abnormal immune response triggers inflammation in the digestive tract. Environmental factors, such as 
+a diet high in fat or stress, can exacerbate symptoms, although they are not the direct cause. Smoking also 
+increases the risk of developing Crohn's disease and can worsen the condition.<br/><br/>
+
+<strong>How is Crohn's Disease Diagnosed?</strong><br/>
+Crohn's disease is diagnosed through a combination of medical history, <span>physical examination</span>, and 
+diagnostic tests. Common tests include <span>blood tests</span> to check for signs of inflammation or anemia, 
+<span>stool tests</span> to rule out infections, and imaging studies such as <span>CT scans</span>, <span>MRI</span>, 
+or <span>endoscopy</span> (which allows doctors to view the inside of the GI tract). A <span>colonoscopy</span> 
+is the most definitive test for diagnosing Crohn's disease, allowing the doctor to take tissue samples (biopsies) 
+and examine areas of the intestine affected by inflammation.<br/><br/>
+
+<strong>How is Crohn's Disease Treated?</strong><br/>
+While there is no cure for Crohn's disease, treatment focuses on reducing inflammation, managing symptoms, and 
+preventing complications. Medications commonly used include <span>anti-inflammatory drugs</span> (such as aminosalicylates), 
+<span>immune system suppressors</span> (like corticosteroids or immunomodulators), and <span>biologic therapies</span> 
+that target specific parts of the immune system. <span>Antibiotics</span> may be prescribed if infections or 
+abscesses are present. In some cases, <span>surgery</span> may be necessary to remove damaged sections of the 
+bowel, treat blockages, or repair fistulas. Dietary changes, including avoiding trigger foods and ensuring 
+adequate nutrition, are also an important part of managing the condition.<br/><br/>
+
+<strong>How is Crohn's Disease Prevented?</strong><br/>
+Crohn's disease cannot be prevented, but its symptoms can be managed effectively with early diagnosis and 
+treatment. Individuals at risk, particularly those with a family history of the disease, should consider <span>genetic 
+counseling</span> and regular check-ups with a healthcare provider to monitor for any early signs of Crohn's 
+disease. Smoking cessation, a healthy diet, and stress management can also help reduce flare-ups and improve 
+quality of life for those with the condition. Maintaining a balance between medication and lifestyle adjustments 
+is key to preventing severe complications.<br/><br/>
+`
 
 }, {
     id: 43,
     image: 'Images/als.jpg',
     bookTitle: 'AMYOTROHIC LATERAL SCLEROSIS[ALS]',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `<strong>What is Amyotrophic Lateral Sclerosis (ALS)?</strong><br/>
+Amyotrophic Lateral Sclerosis (ALS), also known as <span>Lou Gehrig's disease</span>, is a progressive 
+neurodegenerative disorder that affects the nerve cells in the brain and spinal cord. ALS causes the 
+degeneration of motor neurons, which are responsible for controlling voluntary muscles. As motor neurons die, 
+the muscles gradually weaken and waste away, leading to loss of movement and, eventually, paralysis. ALS 
+typically starts with muscle weakness and difficulty speaking or swallowing but progresses over time, 
+affecting a person's ability to breathe and move. The exact cause of ALS is unknown, but it is believed to 
+involve genetic and environmental factors.<br/><br/>
+
+<strong>Symptoms of Amyotrophic Lateral Sclerosis</strong><br/>
+The symptoms of ALS vary from person to person but generally include <span>muscle weakness</span>, especially 
+in the arms, legs, or face. Early signs may also include <span>slurred speech</span>, <span>difficulties with 
+swallowing (dysphagia)</span>, <span>muscle cramps</span>, <span>twitching (fasciculations)</span>, and <span>
+difficulty walking</span>. As the disease progresses, individuals may experience <span>complete paralysis</span> 
+of the affected muscles, loss of the ability to speak or swallow, and impaired breathing due to weakness of 
+respiratory muscles. Cognitive abilities are often unaffected, but some people may develop changes in behavior 
+or thinking.<br/><br/>
+
+<strong>What Causes Amyotrophic Lateral Sclerosis?</strong><br/>
+The exact cause of ALS is not fully understood, but it is believed to be a combination of genetic and environmental 
+factors. In approximately 10% of cases, ALS is inherited and is referred to as <span>familial ALS</span>. The 
+remaining cases are classified as <span>sporadic ALS</span>, with no clear family history of the disease. Certain 
+gene mutations have been linked to ALS, but they only account for a small proportion of cases. Environmental 
+factors such as <span>toxin exposure</span>, <span>trauma</span>, or <span>viral infections</span> may also 
+contribute to the development of ALS, although no specific cause has been definitively proven. Some research 
+suggests that a malfunction in the cells that protect motor neurons, called <span>glial cells</span>, may play 
+a role.<br/><br/>
+
+<strong>How is Amyotrophic Lateral Sclerosis Diagnosed?</strong><br/>
+ALS is diagnosed based on a thorough <span>medical history</span>, <span>physical examination</span>, and a 
+series of diagnostic tests. A healthcare provider may perform <span>neurological exams</span> to assess muscle 
+strength, coordination, and reflexes. Tests such as <span>electromyography (EMG)</span> and <span>nerve 
+conduction studies</span> can help detect abnormal electrical activity in muscles and nerve function. Blood tests, 
+<span>MRI scans</span>, and <span>genetic testing</span> may also be used to rule out other conditions that 
+might cause similar symptoms. ALS is often diagnosed when other potential causes of muscle weakness have been 
+excluded.<br/><br/>
+
+<strong>How is Amyotrophic Lateral Sclerosis Treated?</strong><br/>
+There is no cure for ALS, but treatment focuses on managing symptoms, improving quality of life, and slowing 
+the progression of the disease. Medications such as <span>riluzole</span> and <span>edaravone</span> have been 
+shown to modestly extend survival by slowing the progression of the disease. Symptom management may involve physical 
+therapy to maintain muscle strength and mobility, speech therapy to address difficulties with speaking and 
+swallowing, and respiratory therapy to help with breathing. <span>Supportive care</span>, including the use 
+of ventilators and feeding tubes, may be needed as the disease progresses. Pain management and psychological 
+support are also important to help individuals cope with the emotional and physical challenges of ALS.<br/><br/>
+
+<strong>How is Amyotrophic Lateral Sclerosis Prevented?</strong><br/>
+Currently, there is no known way to prevent ALS, as the cause of the disease remains unclear. For individuals 
+with a family history of familial ALS, genetic counseling may help provide insights into the risks and potential 
+options for monitoring the condition. While environmental factors cannot be fully controlled, minimizing 
+exposure to toxins and maintaining a healthy lifestyle can potentially reduce the risk of developing ALS. 
+Research into ALS is ongoing, and advances in genetic understanding and treatment options continue to evolve.<br/><br/>
+`
 
 }, {
     id: 44,
     image: 'Images/wilsons_disease.jpg',
     bookTitle: `WILSON'S DISEASE`,
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `<strong>What is Wilson's Disease?</strong><br/>
+Wilson's disease is a rare genetic disorder in which the body is unable to properly metabolize copper, leading 
+to a buildup of copper in various organs, particularly the <span>liver</span>, <span>brain</span>, and <span>
+eyes</span>. This accumulation of copper can cause severe damage to these organs, leading to a variety of 
+symptoms. The condition is caused by mutations in the <span>ATP7B gene</span>, which is responsible for 
+regulating copper transport. If left untreated, Wilson's disease can lead to liver failure, neurological 
+problems, and psychiatric issues.<br/><br/>
+
+<strong>Symptoms of Wilson's Disease</strong><br/>
+Symptoms of Wilson's disease can vary widely depending on the severity of copper buildup and which organs are 
+affected. Common symptoms include <span>liver dysfunction</span> (such as jaundice, fatigue, and abdominal pain), 
+<span>neurological symptoms</span> like tremors, difficulty with coordination, and muscle stiffness. 
+Psychological symptoms such as <span>mood changes</span>, <span>personality changes</span>, and <span>cognitive
+impairments</span> are also common. The disease may also cause a distinctive <span>brownish or golden ring 
+around the cornea</span> of the eyes, called a <span>Kayser-Fleischer ring</span>, which is often a key sign 
+of Wilson's disease.<br/><br/>
+
+<strong>What Causes Wilson's Disease?</strong><br/>
+Wilson's disease is caused by mutations in the <span>ATP7B gene</span>, which leads to defective copper transport 
+and accumulation in the body. Normally, the body eliminates excess copper through the liver, but in Wilson's 
+disease, the copper cannot be properly excreted. This results in a buildup of copper in various tissues, 
+especially the liver, where it can cause liver damage and cirrhosis. The condition is inherited in an <span>autosomal 
+recessive</span> pattern, meaning an individual must inherit two copies of the mutated gene (one from each 
+parent) to develop the disease. If only one copy of the gene is inherited, the person is a carrier but typically 
+does not show symptoms.<br/><br/>
+
+<strong>How is Wilson's Disease Diagnosed?</strong><br/>
+Wilson's disease is diagnosed based on a combination of <span>clinical examination</span>, <span>medical 
+history</span>, and diagnostic tests. Blood tests can measure levels of copper and ceruloplasmin (a copper-carrying 
+protein), which are typically low in individuals with Wilson's disease. A <span>24-hour urine copper test</span> 
+may show elevated levels of copper excretion. Imaging studies, such as <span>liver biopsy</span>, may also be 
+used to assess liver damage. The presence of <span>Kayser-Fleischer rings</span> can be detected using slit-
+lamp examination of the eyes. Genetic testing can confirm the diagnosis by identifying mutations in the ATP7B 
+gene.<br/><br/>
+
+<strong>How is Wilson's Disease Treated?</strong><br/>
+Wilson's disease is treated with medications that help remove excess copper from the body and prevent further 
+accumulation. The main treatment options include <span>chelating agents</span> like <span>penicillamine</span> 
+or <span>trientine</span>, which bind to copper and allow it to be excreted in the urine. <span>Zinc</span> is 
+also commonly used to block the absorption of copper from the digestive tract. In more severe cases, or when 
+liver damage is advanced, <span>liver transplantation</span> may be necessary. Treatment is lifelong, and 
+individuals with Wilson's disease must closely follow their prescribed regimen to prevent copper buildup and
+manage symptoms. Regular monitoring of liver function and copper levels is important for managing the condition.<br/><br/>
+
+<strong>How is Wilson's Disease Prevented?</strong><br/>
+Wilson's disease cannot be prevented since it is an inherited genetic disorder. However, early diagnosis and 
+treatment can help prevent severe organ damage and improve quality of life. Family members of individuals 
+with Wilson's disease may undergo genetic counseling and testing to determine if they carry the defective gene.
+If diagnosed early, treatment can be started to prevent copper buildup and its damaging effects. Lifelong 
+treatment and regular monitoring are essential to managing Wilson's disease effectively and preventing complications.<br/><br/>
+`
 
 }, {
     id: 45,
     image: 'Images/adhd.jpg',
-    bookTitle: 'ATTENTION-DEFICIT [HYPERACTVITY DISORDER]',
+    bookTitle: 'ATTENTION-DEFICIT [HYPERACTVITY DISORDER, ADHD]',
     bookAuthor: 'André Edinam Fiawornu',
-    content: ''
+    content: `<strong>What is Attention-Deficit Hyperactivity Disorder (ADHD)?</strong><br/>
+Attention-Deficit Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder that affects both children and 
+adults. It is characterized by persistent patterns of inattention, hyperactivity, and impulsivity that 
+interfere with daily functioning and development. The exact cause of ADHD is not fully understood, but it is 
+believed to involve a combination of genetic, environmental, and neurological factors. ADHD can impact 
+academic performance, work productivity, and social relationships. It is typically diagnosed in childhood, 
+but symptoms can continue into adolescence and adulthood.<br/><br/>
+
+<strong>Symptoms of Attention-Deficit Hyperactivity Disorder</strong><br/>
+The symptoms of ADHD are generally divided into two categories: <span>inattention</span> and <span>
+hyperactivity/impulsivity</span>. Common symptoms of inattention include difficulty staying focused on 
+tasks, forgetfulness, disorganization, and frequent mistakes due to lack of attention. Symptoms of 
+hyperactivity/impulsivity include excessive talking, difficulty sitting still, interrupting others, and 
+making decisions without considering the consequences. These symptoms must be present for at least six months 
+and cause significant impairment in at least two settings (e.g., home, school, or work) to meet the diagnostic 
+criteria.<br/><br/>
+
+<strong>What Causes Attention-Deficit Hyperactivity Disorder?</strong><br/>
+The exact cause of ADHD is unknown, but several factors are believed to contribute to its development. Genetics 
+plays a major role, as ADHD tends to run in families. Environmental factors such as prenatal exposure to 
+tobacco, alcohol, or lead, as well as premature birth, may increase the risk. Differences in brain structure 
+and function, particularly in areas responsible for attention and impulse control, have been observed in 
+individuals with ADHD. However, there is no single definitive cause, and it is likely a combination of factors 
+that contribute to the condition.<br/><br/>
+
+<strong>How is Attention-Deficit Hyperactivity Disorder Diagnosed?</strong><br/>
+ADHD is diagnosed based on a comprehensive evaluation, including a detailed <span>medical history</span>, 
+<span>behavioral assessments</span>, and input from teachers or caregivers. There is no single test for ADHD, 
+so the diagnosis involves ruling out other potential causes for the symptoms. The clinician will assess the 
+symptoms based on the criteria outlined in the <span>Diagnostic and Statistical Manual of Mental Disorders 
+(DSM-5)</span>. In addition, <span>rating scales</span> and <span>questionnaires</span> may be used to gather 
+information about behavior in different settings (e.g., home, school, or work). A physical examination and 
+possibly laboratory tests may be conducted to rule out other conditions.<br/><br/>
+
+<strong>How is Attention-Deficit Hyperactivity Disorder Treated?</strong><br/>
+ADHD is treated with a combination of <span>behavioral therapy</span>, <span>medication</span>, and <span>lifestyle 
+modifications</span>. Medications such as <span>stimulants</span> (e.g., methylphenidate or amphetamines) are 
+commonly prescribed to help improve attention and reduce hyperactivity and impulsivity. Non-stimulant medications, 
+such as <span>atomoxetine</span> or <span>guanfacine</span>, may also be used. Behavioral therapy, including 
+<span>cognitive-behavioral therapy (CBT)</span>, can help individuals develop coping strategies and improve 
+organization and time-management skills. Educational support, such as accommodations in school or workplace, 
+can also be beneficial for managing symptoms.<br/><br/>
+
+<strong>How is Attention-Deficit Hyperactivity Disorder Prevented?</strong><br/>
+There is no known way to prevent ADHD, as it is believed to have genetic and environmental origins. However, 
+early intervention can significantly improve the outcomes for individuals with ADHD. Identifying and managing 
+symptoms early in childhood through behavioral therapy and structured environments can help individuals cope 
+better with the challenges associated with the disorder. Parents, teachers, and caregivers can support children 
+by providing clear routines, breaking tasks into smaller steps, and offering positive reinforcement.<br/><br/>
+`
 
 }, {
     id: 46,
     image: 'Images/tay_sachs disease.jpg',
     bookTitle: 'TAY-SACHS DISEASE',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `<strong>What is Tay-Sachs Disease?</strong><br/>
+Tay-Sachs disease is a rare, inherited neurodegenerative disorder that primarily affects children. It is 
+caused by a deficiency of an enzyme called <span>hexosaminidase A</span>, which is needed to break down a 
+fatty substance called <span>GM2 ganglioside</span> in the brain and nerve cells. Without this enzyme, GM2 
+ganglioside accumulates in the cells, leading to progressive damage to the nervous system. Tay-Sachs disease 
+is most commonly seen in individuals of <span>Ashkenazi Jewish</span> descent but can affect people of other 
+ethnic backgrounds as well. The condition is usually fatal in early childhood.<br/><br/>
+
+<strong>Symptoms of Tay-Sachs Disease</strong><br/>
+The symptoms of Tay-Sachs disease typically begin to appear around <span>6 months of age</span> and worsen 
+over time. Common early signs include <span>delayed development</span>, <span>muscle weakness</span>, 
+<span>loss of motor skills</span>, and <span>decreased responsiveness</span>. As the disease progresses, 
+children may develop <span>seizures</span>, <span>vision loss</span>, <span>hearing loss</span>, and <span>
+spasticity</span> (muscle rigidity). Eventually, the child may lose the ability to swallow, speak, or move. 
+In the most common form, symptoms lead to death usually by the age of <span>4 or 5</span>.<br/><br/>
+
+<strong>What Causes Tay-Sachs Disease?</strong><br/>
+Tay-Sachs disease is caused by a genetic mutation in the <span>HEXA gene</span>, which provides instructions 
+for making the enzyme <span>hexosaminidase A</span>. This enzyme is responsible for breaking down GM2 ganglioside 
+in the brain and nerve cells. When the enzyme is deficient or absent due to the mutation, GM2 ganglioside builds 
+up and damages the nerve cells. Tay-Sachs disease follows an <span>autosomal recessive inheritance pattern</span>, 
+meaning a person must inherit two copies of the mutated gene (one from each parent) to develop the disease. 
+If only one copy of the gene is inherited, the person is a carrier but does not show symptoms.<br/><br/>
+
+<strong>How is Tay-Sachs Disease Diagnosed?</strong><br/>
+Tay-Sachs disease is diagnosed through a combination of <span>clinical evaluation</span>, <span>genetic testing</span>, 
+and enzyme activity tests. A blood test can measure the level of <span>hexosaminidase A</span> in the blood, 
+which is typically low in individuals with Tay-Sachs disease. Genetic testing can confirm the presence of 
+mutations in the <span>HEXA gene</span>. In some cases, <span>prenatal testing</span> may be offered to 
+families with a known history of the disease or who are carriers. Early detection through genetic counseling 
+and screening is important, especially for individuals with a family history of the disorder.<br/><br/>
+
+<strong>How is Tay-Sachs Disease Treated?</strong><br/>
+There is currently no cure for Tay-Sachs disease, and treatment is focused on managing symptoms and providing 
+supportive care. This may include <span>seizure management</span> with medications, physical therapy to help 
+maintain mobility, and speech therapy for communication issues. In later stages of the disease, feeding tubes 
+may be necessary to help with nutrition, and respiratory support may be required to assist with breathing. Palliative 
+care is often recommended to ensure comfort and quality of life for the child and family. Research into potential 
+treatments, such as gene therapy, is ongoing but has not yet provided a definitive cure.<br/><br/>
+
+<strong>How is Tay-Sachs Disease Prevented?</strong><br/>
+Tay-Sachs disease cannot be prevented, but it can be detected early through <span>genetic screening</span>. 
+Individuals with a family history of Tay-Sachs disease or those of Ashkenazi Jewish descent are often advised 
+to undergo carrier screening before having children. If both parents are carriers, they may consider options 
+such as <span>prenatal testing</span> or <span>genetic counseling</span> to better understand the risk of passing 
+the disease to their children. Early diagnosis allows families to make informed decisions about their care 
+options and provides an opportunity for early intervention and support.<br/><br/>
+`
 
 }, {
     id: 47,
     image: 'Images/insomnia.jpg',
     bookTitle: 'INSOMNIA',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Insomnia?</strong><br/>
+Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or waking up too early 
+and not being able to go back to sleep. It can result in poor-quality sleep and lead to daytime fatigue, mood 
+disturbances, and impairments in cognitive functioning. Insomnia can be short-term (acute) or long-term 
+(chronic). It may be caused by a variety of factors including stress, anxiety, poor sleep hygiene, medical 
+conditions, medications, and lifestyle habits. Insomnia is a common condition that affects people of all ages.<br/><br/>
+
+<strong>Symptoms of Insomnia</strong><br/>
+The symptoms of insomnia can vary depending on the individual, but common signs include <span>difficulty 
+falling asleep</span>, <span>waking up frequently during the night</span>, <span>waking up too early in the 
+morning</span>, and <span>feeling unrefreshed upon waking</span>. People with insomnia may also experience 
+<span>daytime fatigue</span>, <span>irritability</span>, <span>difficulty concentrating</span>, and <span>mood 
+swings</span> due to poor-quality sleep. Chronic insomnia may lead to more serious health problems such as 
+depression, anxiety, or high blood pressure.<br/><br/>
+
+<strong>What Causes Insomnia?</strong><br/>
+Insomnia can be triggered by a variety of factors, which can be divided into <span>primary</span> and 
+<span>secondary causes</span>. Primary insomnia occurs without an underlying medical or psychiatric condition, 
+and it may be related to stress, poor sleep habits, or environmental factors. Secondary insomnia is typically 
+caused by another condition such as <span>anxiety</span>, <span>depression</span>, <span>chronic pain</span>, 
+<span>sleep apnea</span>, <span>medications</span>, or <span>substance abuse</span>. Lifestyle factors such as 
+consuming too much caffeine or alcohol, irregular sleep schedules, and lack of physical activity can also 
+contribute to insomnia.<br/><br/>
+
+<strong>How is Insomnia Diagnosed?</strong><br/>
+Insomnia is diagnosed through a thorough <span>medical history</span> and evaluation of sleep patterns. A healthcare 
+provider may ask about sleep habits, lifestyle, and any potential underlying health conditions that could be 
+contributing to the insomnia. In some cases, a <span>sleep study</span> (polysomnography) may be conducted to 
+evaluate sleep patterns more closely. Additionally, <span>sleep diaries</span> and <span>questionnaires</span> 
+may be used to monitor sleep duration and quality. If insomnia is suspected to be secondary to another condition, 
+further testing may be recommended.<br/><br/>
+
+<strong>How is Insomnia Treated?</strong><br/>
+Treatment for insomnia typically involves a combination of <span>behavioral therapy</span>, <span>lifestyle 
+changes</span>, and <span>medications</span>. Cognitive-behavioral therapy for insomnia (CBT-I) is considered 
+one of the most effective treatments. It helps individuals identify and change negative thought patterns and 
+behaviors that interfere with sleep. <span>Sleep hygiene improvements</span> such as maintaining a consistent 
+sleep schedule, creating a comfortable sleep environment, and limiting screen time before bed are essential. 
+Medications such as <span>sedative-hypnotics</span> (e.g., zolpidem) or <span>melatonin</span> may be prescribed 
+for short-term use to help with sleep onset. However, medications are generally not recommended for long-term 
+management.<br/><br/>
+
+<strong>How is Insomnia Prevented?</strong><br/>
+While insomnia cannot always be prevented, there are several lifestyle changes and habits that can help reduce 
+the risk of developing sleep difficulties. Maintaining <span>regular sleep routines</span>, avoiding caffeine 
+and alcohol close to bedtime, and creating a <span>relaxing bedtime routine</span> are important preventative 
+measures. Ensuring a comfortable sleep environment, managing stress, and engaging in regular physical activity 
+can also improve sleep quality. For individuals with underlying health conditions, addressing the root cause 
+(such as anxiety or chronic pain) can help prevent insomnia from occurring.<br/><br/>
+`
 
 }, {
     id: 48,
     image: 'Images/diarrhoea.jpg',
     bookTitle: 'DIARRHOEA',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amezdro',
+    content: `<strong>What is Diarrhea?</strong><br/>
+Diarrhea is a condition characterized by frequent, loose, or watery stools. It is often a symptom of an 
+underlying issue, such as an infection, digestive disorder, or food intolerance. Diarrhea can be acute 
+(lasting for a few days) or chronic (lasting for more than four weeks). It is usually caused by viral, 
+bacterial, or parasitic infections, but it can also be triggered by medications, certain foods, or medical 
+conditions such as <span>irritable bowel syndrome (IBS)</span> or <span>inflammatory bowel disease (IBD)</span>. 
+Diarrhea can lead to dehydration, especially in young children and older adults, and may require medical 
+attention if it is severe or persistent.<br/><br/>
+
+<strong>Symptoms of Diarrhea</strong><br/>
+The primary symptom of diarrhea is <span>loose or watery stools</span>, often occurring multiple times a day. 
+Other common symptoms include <span>abdominal cramps</span>, <span>bloating</span>, <span>nausea</span>, 
+<span>fever</span>, and <span>urgency to have a bowel movement</span>. In more severe cases, diarrhea may be 
+accompanied by <span>blood in the stool</span>, which could indicate an infection or inflammatory condition. 
+Dehydration, a serious complication of diarrhea, can cause symptoms such as <span>dry mouth</span>, <span>
+thirst</span>, <span>dark urine</span>, <span>dizziness</span>, and <span>fatigue</span>.<br/><br/>
+
+<strong>What Causes Diarrhea?</strong><br/>
+Diarrhea can be caused by a variety of factors, including <span>viral infections</span> (e.g., norovirus, 
+rotavirus), <span>bacterial infections</span> (e.g., Salmonella, Escherichia coli), and <span>parasitic 
+infections</span> (e.g., Giardia). It can also result from <span>food intolerances</span> (e.g., lactose 
+intolerance), <span>medications</span> (e.g., antibiotics, antacids), or <span>food poisoning</span>. Chronic 
+diarrhea may be linked to underlying medical conditions such as <span>irritable bowel syndrome (IBS)</span>, 
+<span>inflammatory bowel disease (IBD)</span>, <span>celiac disease</span>, or <span>malabsorption disorders</span>. 
+Stress, diet changes, and overuse of laxatives can also contribute to diarrhea.<br/><br/>
+
+<strong>How is Diarrhea Diagnosed?</strong><br/>
+Diagnosing diarrhea typically begins with a <span>medical history</span> and <span>physical examination</span>,
+where the healthcare provider will ask about symptoms, recent travel, and possible exposure to contaminated 
+food or water. In some cases, further diagnostic tests may be needed to identify the underlying cause. These
+may include <span>stool tests</span> to check for infections, blood tests to detect dehydration or inflammation, 
+and imaging studies like <span>colonoscopy</span> to examine the gastrointestinal tract. If the diarrhea is 
+chronic or persistent, more specialized tests may be required to rule out conditions such as <span>IBD</span> 
+or <span>celiac disease</span>.<br/><br/>
+
+<strong>How is Diarrhea Treated?</strong><br/>
+Treatment for diarrhea depends on its underlying cause. In most cases of acute diarrhea, the condition resolves 
+on its own without the need for medication. The primary treatment is <span>fluid replacement</span> to prevent 
+dehydration, particularly with oral rehydration solutions (ORS) containing electrolytes. <span>Antidiarrheal 
+medications</span> such as <span>loperamide</span> can be used to reduce symptoms in non-infectious cases. If 
+diarrhea is caused by a bacterial infection, <span>antibiotics</span> may be prescribed. For diarrhea related 
+to food intolerances, avoiding the offending foods is key. In cases of chronic diarrhea, treatment may involve 
+addressing the underlying condition, such as using <span>anti-inflammatory medications</span> for inflammatory 
+bowel disease or <span>dietary changes</span> for irritable bowel syndrome.<br/><br/>
+
+<strong>How is Diarrhea Prevented?</strong><br/>
+Diarrhea can often be prevented through proper <span>hand hygiene</span>, such as washing hands thoroughly 
+with soap and water before eating or after using the restroom. Safe food practices, such as cooking meats 
+thoroughly, washing fruits and vegetables, and avoiding unclean water, are also important for preventing 
+foodborne infections. Vaccines are available to prevent certain viral infections like rotavirus, which can 
+cause severe diarrhea in children. People who are prone to diarrhea due to food intolerances should avoid 
+trigger foods. If diarrhea is caused by medications, discussing alternatives with a healthcare provider may 
+help prevent recurrence.<br/><br/>
+`
 
 }, {
     id: 49,
     image: 'Images/rabies.jpg',
     bookTitle: 'RABIES',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Rabies?</strong><br/>
+Rabies is a viral disease that primarily affects the central nervous system, leading to brain inflammation and, 
+if left untreated, death. The virus is transmitted through the saliva of an infected animal, typically through 
+bites or scratches. Rabies is most commonly found in wild animals such as bats, raccoons, and foxes, but it can 
+also be transmitted by domestic animals like dogs. Once symptoms appear, rabies is almost always fatal, which 
+is why early treatment after exposure is critical for survival. Rabies is preventable with post-exposure prophylaxis 
+(PEP) if administered promptly after a bite or scratch from an infected animal.<br/><br/>
+
+<strong>Symptoms of Rabies</strong><br/>
+The symptoms of rabies typically progress through several stages, starting with mild flu-like symptoms, such
+as <span>fever</span>, <span>headache</span>, <span>fatigue</span>, and <span>muscle aches</span>. As the 
+disease progresses, more severe symptoms emerge, including <span>anxiety</span>, <span>irritability</span>, 
+<span>confusion</span>, <span>agitation</span>, and <span>hallucinations</span>. Eventually, as the virus 
+affects the nervous system, the person may experience <span>difficulty swallowing</span>, <span>excessive 
+salivation</span>, <span>hydrophobia (fear of water)</span>, <span>paralysis</span>, and <span>seizures</span>. 
+In the final stages, coma and death typically result from respiratory failure. Symptoms usually appear 1-3 months 
+after exposure, but they can take longer in some cases.<br/><br/>
+
+<strong>What Causes Rabies?</strong><br/>
+Rabies is caused by the rabies virus, which is a member of the <span>Rhabdoviridae</span> family. The virus is 
+transmitted through the saliva of infected animals, typically via bites, scratches, or open wounds. Once the 
+virus enters the body, it travels through the nerves to the brain, where it causes inflammation and dysfunction. 
+Rabies is most commonly associated with wild animals, particularly those that are nocturnal and can spread the 
+virus to humans and domestic animals. In some areas, rabies remains a major public health concern, especially 
+in regions where dog vaccination rates are low.<br/><br/>
+
+<strong>How is Rabies Diagnosed?</strong><br/>
+Rabies is usually diagnosed based on a combination of the patient’s clinical symptoms, exposure history, and 
+laboratory tests. If an individual is bitten or scratched by an animal, it is crucial to seek immediate medical 
+attention. Rabies cannot be definitively diagnosed until after death, but during life, doctors may perform tests 
+such as a <span>skin biopsy</span> or a <span>saliva test</span> to detect the presence of the virus. Additional 
+tests, such as examining cerebrospinal fluid or performing PCR (Polymerase Chain Reaction) on brain tissue, 
+may be used for confirmation, though rabies is often suspected based on the patient’s symptoms and the circumstances 
+surrounding the exposure.<br/><br/>
+
+<strong>How is Rabies Treated?</strong><br/>
+Once symptoms of rabies appear, there is no effective treatment, and the disease is nearly always fatal. 
+However, rabies is highly preventable if immediate treatment is administered after exposure. This post-exposure 
+prophylaxis (PEP) involves a series of <span>rabies vaccinations</span> along with a dose of <span>rabies 
+immune globulin (RIG)</span>, which helps to neutralize the virus. The treatment must begin as soon as possible, 
+ideally within 24 hours of exposure, and is very effective at preventing the onset of symptoms if started early. 
+For individuals who have not been vaccinated against rabies before exposure, the PEP treatment is a life-saving 
+intervention.<br/><br/>
+
+<strong>How is Rabies Prevented?</strong><br/>
+Rabies prevention primarily involves vaccination and avoiding exposure to potentially infected animals. The 
+<span>rabies vaccine</span> is available for both humans and animals. Domestic pets, especially dogs, should 
+be vaccinated against rabies as a routine part of pet care. People who work with animals or are at higher risk 
+for exposure (e.g., veterinarians, animal handlers, travelers to regions with high rabies prevalence) should 
+receive pre-exposure rabies vaccinations. If bitten or scratched by an animal that may have rabies, immediate 
+wound cleaning and post-exposure prophylaxis (PEP) are crucial. Avoiding contact with wild animals and reporting 
+animal bites to health authorities are important preventive measures.<br/><br/>
+`
 
 }, {
     id: 50,
     image: 'Images/cancer.jpg',
     bookTitle: 'CANCER',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amezdro',
+    content: `<strong>What is Cancer?</strong><br/>
+Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. These cells can 
+form tumors (masses of tissue), invade nearby tissues, and spread to other parts of the body through the blood 
+or lymphatic system, a process known as metastasis. There are many types of cancer, including but not limited 
+to <span>breast cancer</span>, <span>lung cancer</span>, <span>prostate cancer</span>, <span>colorectal cancer</span>, 
+and <span>leukemia</span>. The causes of cancer are complex and may involve genetic factors, environmental exposures, and lifestyle choices. Early detection and treatment are key to improving survival rates.<br/><br/>
+
+<strong>Symptoms of Cancer</strong><br/>
+Cancer symptoms vary widely depending on the type and location of the cancer, but common signs include 
+<span>unexplained weight loss</span>, <span>fatigue</span>, <span>persistent pain</span>, <span>changes in the 
+skin</span> (such as new growths or changes in existing moles), <span>persistent cough or hoarseness</span>, 
+<span>changes in bowel or bladder habits</span>, and <span>unusual bleeding or discharge</span>. In some cases, 
+cancers like <span>breast cancer</span> or <span>testicular cancer</span> may present as lumps or masses in 
+specific areas. As the disease progresses, other symptoms such as difficulty breathing or difficulty swallowing 
+may appear. It is important to consult a healthcare provider if any concerning or persistent symptoms arise.<br/><br/>
+
+<strong>What Causes Cancer?</strong><br/>
+Cancer is caused by changes (mutations) in the DNA within cells that disrupt normal cell growth and division. 
+These mutations can be triggered by a variety of factors, including <span>genetic predisposition</span>, <span>environmental 
+factors</span> (e.g., exposure to carcinogens such as tobacco smoke, ultraviolet radiation, or asbestos), 
+<span>dietary factors</span>, <span>chronic inflammation</span>, <span>viruses</span> (e.g., human papillomavirus 
+or hepatitis B virus), and <span>hormonal influences</span>. Some mutations may be inherited, while others 
+occur due to environmental exposures or lifestyle choices. A combination of genetic and environmental factors 
+can influence the development of cancer.<br/><br/>
+
+<strong>How is Cancer Diagnosed?</strong><br/>
+Cancer diagnosis typically involves a combination of <span>physical exams</span>, <span>medical history</span>, 
+<span>laboratory tests</span>, and <span>imaging studies</span>. Common imaging techniques include <span>X-rays</span>, 
+<span>CT scans</span>, <span>MRIs</span>, and <span>ultrasounds</span>, which can help detect the presence of 
+tumors. <span>Biopsy</span>, where a sample of tissue is removed and examined under a microscope, is often used 
+to confirm the presence of cancer and to determine its type. Other tests such as <span>blood tests</span> or 
+<span>genetic tests</span> may be used to assess cancer markers or detect specific mutations. Early detection 
+through screenings, such as mammograms or colonoscopies, can significantly improve the chances of successful 
+treatment.<br/><br/>
+
+<strong>How is Cancer Treated?</strong><br/>
+Cancer treatment depends on the type and stage of cancer, as well as the individual’s overall health. Common 
+treatments for cancer include <span>surgery</span>, <span>chemotherapy</span>, <span>radiation therapy</span>, 
+<span>targeted therapy</span>, <span>immunotherapy</span>, and <span>hormone therapy</span>. In some cases, a 
+combination of these treatments is used. Surgery may be performed to remove tumors or affected tissues. 
+Chemotherapy and radiation therapy work by targeting and killing rapidly dividing cancer cells, while targeted 
+therapies aim to block specific molecules involved in cancer growth. Immunotherapy enhances the body's immune 
+system to fight cancer. The choice of treatment depends on the cancer type, its stage, and how well the body 
+can tolerate specific therapies.<br/><br/>
+
+<strong>How is Cancer Prevented?</strong><br/>
+While not all cancers can be prevented, several strategies can help reduce the risk. These include avoiding 
+tobacco use, maintaining a healthy diet rich in fruits and vegetables, exercising regularly, limiting alcohol 
+consumption, and protecting the skin from excessive sun exposure by using sunscreen and avoiding tanning beds. 
+Vaccines, such as the <span>HPV vaccine</span> for cervical cancer or the <span>hepatitis B vaccine</span> for 
+liver cancer, can help prevent cancers linked to specific infections. Regular screenings, such as mammograms, 
+colonoscopies, and Pap tests, can help detect cancer early, improving the chances of successful treatment. It 
+is also important to manage risk factors like obesity and chronic inflammation to reduce cancer risk.<br/><br/>
+`
 
 }
 ];
