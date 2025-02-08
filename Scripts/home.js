@@ -69,3 +69,20 @@ hamburgerMenu.addEventListener('click', () => {
     const menuLink = document.getElementById('navigation-mobile');
     menuLink.classList.toggle('show');
 });
+
+const genreBtn = document.querySelectorAll('.genre-btn')
+genreBtn.forEach((button) => {
+    button.addEventListener('click', () => {
+        const filteredResults = book.filter(b => b.category.toLowerCase().includes(button.dataset.category));
+
+        if(filteredResults.length > 1) {
+            renderBooks(filteredResults)
+        } else {
+            bookCoverGeneral.innerHTML = 'No Results Found';
+        }
+
+        
+
+    })
+
+})

@@ -3,6 +3,7 @@ export const book = [{
     id: 1,
     image: 'Images/alzheimers 2.jpg',
     bookTitle: "ALZHEIMER'S",
+    category: 'neurological',
     bookAuthor: 'Selinam Gakpetor',
     content: `
 
@@ -39,6 +40,7 @@ export const book = [{
     id: 2,
     image: 'Images/diabetes.jpg',
     bookTitle: 'DIABETES',
+    category: 'metabolic chronic autoimmune',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `
 <strong>What is Diabetes?</strong><br/>
@@ -89,6 +91,7 @@ be especially mindful of their lifestyle choices.<br/><br/>
     id: 3,
     image:'Images/anxiety.jpg',
     bookTitle: 'ANXIETY',
+    category: 'mental',
     bookAuthor: 'André Edinam Fiawornu',
     content: `
 <strong>What is Anxiety?</strong><br/>
@@ -144,6 +147,7 @@ can help spot anxiety early and provide timely treatment.<br/><br/>
     id: 4,
     image:'Images/influenza.jpg',
     bookTitle: 'INFLUENZA',
+    category: 'infectious',
     bookAuthor: 'Steven Selorm Amezdro',
     content: `
 <strong>What is Influenza?</strong><br/>
@@ -191,6 +195,7 @@ prevent transmission.<br/><br/>
     id: 5,
     image: 'Images/hypertension.jpg',
     bookTitle: 'HYPERTENSION',
+    category: 'chronic',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `
 <strong>What is Hypertension?</strong><br/>
@@ -241,6 +246,7 @@ enough sleep also play important roles in maintaining healthy blood pressure.<br
 }, {
     id: 6,
     image: 'Images/ebola.jpg',
+    category: '',
     bookTitle: 'EBOLA',
     bookAuthor: 'Selinam Gakpetor',
     content: `
@@ -290,6 +296,7 @@ safe burial practices, and avoiding the consumption of bushmeat can also help pr
     id: 7,
     image: 'Images/rheumatoid_arthritis.jpg',
     bookTitle: 'RHEUMATOID ARTHRITIS',
+    category: 'autoimmune',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
 <strong>What is Rheumatoid Arthritis?</strong><br/>
@@ -338,6 +345,7 @@ disease.<br/><br/>
     id: 8,
     image: 'Images/sickle_cell_anemia.jpg',
     bookTitle: 'SICKLE CELL ANEMIA',
+    category: 'genetic',
     bookAuthor: 'André Edinam Fiawornu',
     content: `
 <strong>What is Sickle Cell Anemia?</strong><br/>
@@ -385,6 +393,7 @@ intervention to manage symptoms and prevent complications.<br/><br/>
     id: 9,
     image: 'Images/epilepsy.jpg',
     bookTitle: 'EPILEPSY',
+    category: 'neurological',
     bookAuthor: 'Selinam Gakpetor',
     content: `
 <strong>What is Epilepsy?</strong><br/>
@@ -436,6 +445,7 @@ provider is crucial in managing epilepsy.<br/><br/>
     id: 10,
     image: 'Images/hyperthyroidism.jpg',
     bookTitle: 'HYPERTHYROIDISM',
+    category: 'metabolic',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
 <strong>What is Hyperthyroidism?</strong><br/>
@@ -487,6 +497,7 @@ provider are recommended.<br/><br/>
     id: 11,
     image: 'Images/depression.jpg',
     bookTitle: 'DEPRESSION',
+    category: 'mental',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
 <strong>What is Depression?</strong><br/>
@@ -541,7 +552,8 @@ and early intervention can also help manage symptoms before they become severe.<
     id: 12,
     image: 'Images/tuberculosis.jpg',
     bookTitle: 'TUBERCULOSIS',
-    bookAuthor: 'Lemuel Osae Boateng',
+    category: 'infectious',
+    bookAuthor: 'Steven Selorm Amezdro',
     content: `
 <strong>What is Tuberculosis?</strong><br/>
 Tuberculosis (TB) is a contagious bacterial infection caused by <span>Mycobacterium tuberculosis</span>, 
@@ -596,6 +608,7 @@ and access to healthcare are essential in preventing the spread of TB.<br/><br/>
     image: 'Images/copd.jpg',
     bookTitle: 'CHRONIC OBSTRUCTIVE PULMONARY DISEASE[COPD]',
     bookAuthor: 'Lemuel Osae Boateng',
+    category: 'chronic',
     content: `
 <strong>What is Chronic Obstructive Pulmonary Disease (COPD)?</strong><br/>
 Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that cause airflow blockage and breathing 
@@ -648,6 +661,7 @@ improving quality of life for those at risk.<br/><br/>
     id: 14,
     image: 'Images/cystic_fibriosis.jpg',
     bookTitle: 'CYSTIC FIBROSIS',
+    category: 'genetic',
     bookAuthor: 'André Edinam Fiawornu',
     content: `
 <strong>What is Cystic Fibrosis?</strong><br/>
@@ -695,6 +709,7 @@ and lifestyle management are essential for controlling the condition and improvi
     id: 15,
     image: 'Images/lupus.jpg',
     bookTitle: 'LUPUS',
+    category: 'autoimmune',
     bookAuthor: 'Selinam Gakpetor',
     content: `
 <strong>What is Lupus?</strong><br/>
@@ -751,6 +766,7 @@ also help improve quality of life and reduce symptom severity.<br/><br/>
     id: 16,
     image: `Images/parkinson's_disease.jpg`,
     bookTitle: `PARKINSON'S DISEASE`,
+    category: 'neurological',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
 <strong>What is Parkinson's Disease?</strong><br/>
@@ -807,6 +823,7 @@ managing symptoms and improving quality of life.<br/><br/>
     id: 17,
     image: 'Images/hypothyroidism.jpg',
     bookTitle: 'HYPOTHYROIDISM',
+    category: 'metabolic',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `
 <strong>What is Hypothyroidism?</strong><br/>
@@ -861,6 +878,7 @@ symptoms effectively.<br/><br/>
     id: 18,
     image: 'Images/bipolar_disorder.jpg',
     bookTitle: 'BIPOLAR DISORDER',
+    category: 'mental',
     bookAuthor: 'Selinam Gakpetor',
     content: `
 <strong>What is Bipolar Disorder?</strong><br/>
@@ -917,6 +935,7 @@ and staying active, can help reduce the frequency and intensity of mood swings.<
     id: 19,
     image: 'Images/covid-19.jpg',
     bookTitle: 'COVID-19',
+    category: 'infectious',
     bookAuthor: 'André Edinam Fiawornu',
     content: `
 <strong>What is COVID-19?</strong><br/>
@@ -973,6 +992,7 @@ important for reducing transmission.<br/><br/>
     id: 20,
     image: 'Images/coronary_artery_disease.jpg',
     bookTitle: 'CORONARY ARTERY DISEASE [CAD]',
+    category: 'chronic',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
 <strong>What is Coronary Artery Disease (CAD)?</strong><br/>
@@ -1030,6 +1050,7 @@ measures may be recommended.<br/><br/>
     id: 21,
     image: `Images/huntinton's_disease.jpg`,
     bookTitle: `HUNTINGTON'S DISEASE`,
+    category: 'genetic',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `
 <strong>What is Huntington's Disease?</strong>  
@@ -1100,6 +1121,7 @@ of finding ways to slow or stop the progression of the disease in the future.`
     id: 22,
     image: 'Images/multiple sclerosis.jpg',
     bookTitle: 'MULTIPLE SCLEROSIS',
+    category: 'neurological autoimmune',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `<strong>What is Multiple Sclerosis (MS)?</strong><br/>
 Multiple Sclerosis (MS) is a chronic disease that affects the central nervous system, including the brain and 
@@ -1161,6 +1183,7 @@ MS.<br/><br/>
     id: 23,
     image: 'Images/stroke.jpg',
     bookTitle: 'STROKE',
+    category: 'neurological',
     bookAuthor: 'Selinam Gakpetor',
     content: 
 `<strong>What is a Stroke?</strong><br/>
@@ -1233,6 +1256,7 @@ stroke.<br/><br/>
     id: 24,
     image: 'Images/pku.jpg',
     bookTitle: 'PHENYLKETONURIA [PKU]',
+    category: 'metabolic',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `
 <strong>What is Phenylketonuria (PKU)?</strong><br/>
@@ -1295,6 +1319,7 @@ screening for PKU is also available, allowing parents to make informed decisions
     id: 25,
     image: 'Images/schizophrenia.jpg',
     bookTitle: 'SCHIZOPHRENIA',
+    category: 'mental',
     bookAuthor: 'André Edinam Fiawornu',
     content: `<strong>What is Schizophrenia?</strong><br/>
 Schizophrenia is a chronic and severe mental health disorder that affects how a person thinks, feels, and 
@@ -1369,6 +1394,7 @@ the risk of triggering the onset of schizophrenia in those genetically predispos
     id: 26,
     image: 'Images/malaria.jpg',
     bookTitle: 'MALARIA',
+    category: 'infectious',
     bookAuthor: 'André Edinam Fiawornu',
     content: `<strong>What is Malaria?</strong><br/>
 Malaria is a serious and sometimes life-threatening disease caused by a parasite that is transmitted to humans 
@@ -1451,6 +1477,7 @@ care, such as intravenous fluids, blood transfusions, and management of organ fa
     image: 'Images/asthma.jpg',
     bookTitle: 'ASTHMA',
     bookAuthor: 'Selinam Gakpetor',
+    category: 'chronic',
     content: `<strong>What is Asthma?</strong><br/>
 Asthma is a chronic respiratory condition that affects the airways in the lungs, causing them to become i
 nflamed and narrowed. This leads to difficulty breathing, wheezing, shortness of breath, and coughing, 
@@ -1546,6 +1573,7 @@ regular check-ups with your doctor to adjust your treatment plan as needed.<br/>
     id: 28,
     image: 'Images/down_syndrome.jpg',
     bookTitle: 'DOWN SYNDROME',
+    category: 'genetic',
     bookAuthor: 'André Edinam Fiawornu',
     content: `<strong>What is Down Syndrome?</strong><br/>
 Down syndrome is a genetic condition that results from an extra copy of chromosome 21, which affects physical 
@@ -1603,6 +1631,7 @@ with Down syndrome may take longer to achieve certain milestones or complete tas
     id: 29,
     image: `Images/hashimoto's_thyroiditis.jpg`,
     bookTitle: `HASHIMOTO'S THYROIDITIS`,
+    category: 'autoimmune',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `
     <strong>What is Hashimoto's Thyroiditis?</strong><br/>
@@ -1652,6 +1681,7 @@ attention if they experience symptoms.<br/><br/>
     id: 30,
     image: 'Images/migraine.jpg',
     bookTitle: 'MIGRAINE',
+    category: 'neurological',
     bookAuthor: 'Eyram Donkor',
     content: `
     <strong>What is Migraine?</strong><br/>
@@ -1703,6 +1733,7 @@ can also play a role in preventing migraines.<br/><br/>
     id: 31,
     image: 'Images/metabolic_syndrome.jpg',
     bookTitle: 'METABOLIC SYNDROME',
+    category: 'metabolic',
     bookAuthor: 'Selinam Gakpetor',
     content: `<strong>What is Metabolic Syndrome?</strong><br/>
 Metabolic syndrome is a cluster of conditions that increase the risk of developing heart disease, stroke, and 
@@ -1715,7 +1746,9 @@ play a significant role.<br/><br/>
 <strong>Symptoms of Metabolic Syndrome</strong><br/>
 The symptoms of metabolic syndrome are often not noticeable. However, common signs include <span>increased 
 waist circumference</span> (often referred to as abdominal obesity or 'apple-shaped' body), <span>high blood 
-pressure</span>, <span>elevated blood sugar</span>, and <span>high triglycerides</span> or low levels of <span>HDL (good) cholesterol</span>. Because the syndrome encompasses multiple risk factors, people with metabolic syndrome are at higher risk for developing <span>cardiovascular diseases</span> and <span>diabetes</span> if left untreated.<br/><br/>
+pressure</span>, <span>elevated blood sugar</span>, and <span>high triglycerides</span> or low levels of <span>HDL (good) cholesterol</span>. 
+Because the syndrome encompasses multiple risk factors, people with metabolic syndrome are at higher risk for developing 
+<span>cardiovascular diseases</span> and <span>diabetes</span> if left untreated.<br/><br/>
 
 <strong>What Causes Metabolic Syndrome?</strong><br/>
 Metabolic syndrome is primarily caused by factors such as <span>insulin resistance</span>, where the body 
@@ -1757,6 +1790,7 @@ blood sugar levels are also essential for early detection and prevention.<br/><b
     id: 32,
     image: 'Images/ocd.jpg',
     bookTitle: 'OBSESSIVE-COMPULSIVE DISORDER[OCD]',
+    category: 'mental',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `<strong>What is Obsessive-Compulsive Disorder (OCD)?</strong><br/>
 Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by recurrent, unwanted thoughts 
@@ -1809,6 +1843,7 @@ also be important in preventing the escalation of OCD.<br/><br/>
     id: 33,
     image: 'Images/hepatitis_b.jpg',
     bookTitle: 'HEPATITIS B',
+    category: 'infectious',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `<strong>What is Hepatitis B?</strong><br/>
 Hepatitis B is a viral infection that attacks the liver, causing inflammation and potentially leading to 
@@ -1861,6 +1896,7 @@ antiviral treatment may be recommended to reduce the risk of transmitting the vi
     image: 'Images/osteoarthritis.jpg',
     bookTitle: 'OSTEOARTHRITIS',
     bookAuthor: 'Lemuel Osae Boateng',
+    category: 'chronic',
     content: `<strong>What is Osteoarthritis?</strong><br/>
 Osteoarthritis (OA) is a degenerative joint disease that occurs when the cartilage that cushions the joints 
 breaks down over time, causing pain, stiffness, swelling, and decreased mobility. OA is the most common form of
@@ -1913,6 +1949,7 @@ before they worsen.<br/><br/>
     id: 35,
     image: 'Images/hemophilia.jpg',
     bookTitle: 'HEMOPHILIA',
+    category: 'genetic',
     bookAuthor: 'André Edinam Fiawornu',
     content: `<strong>What is Hemophilia?</strong><br/>
 Hemophilia is a rare genetic disorder in which the blood does not clot properly, leading to excessive bleeding 
@@ -1962,6 +1999,7 @@ of their condition before undergoing surgery or dental procedures.<br/><br/>
     id: 36,
     image: 'Images/psoriasis.jpg',
     bookTitle: 'PSORIASIS',
+    category: 'autoimmune',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `<strong>What is Psoriasis?</strong><br/>
 Psoriasis is a chronic autoimmune condition that causes the rapid buildup of skin cells, resulting in thick, 
@@ -2015,6 +2053,7 @@ should work closely with their healthcare provider to create an individualized t
     id: 37,
     image: 'Images/gaucher_disease.jpg',
     bookTitle: 'GAUCHER DISEASE',
+    category: 'metabolic',
     bookAuthor: 'Selinam Gakpetor',
     content: `<strong>What is Gaucher Disease?</strong><br/>
 Gaucher disease is a rare genetic disorder that occurs when a deficiency of the enzyme <span>glucocerebrosidase</span> 
@@ -2070,6 +2109,7 @@ healthcare provider is essential to address any complications and provide approp
     id: 38,
     image: 'Images/ptsd.jpg',
     bookTitle: 'POST-TRAUMATIC STRESS DISORDER [PTSD]',
+    category: 'mental',
     bookAuthor: 'Lemuel Osae Boateng',
     content:`<strong>What is Post-Traumatic Stress Disorder (PTSD)?</strong><br/>
 Post-Traumatic Stress Disorder (PTSD) is a mental health condition that develops after an individual experiences 
@@ -2130,6 +2170,7 @@ and <span>resilience programs</span> may reduce the likelihood of developing PTS
     image: 'Images/dengue_fever.jpg',
     bookTitle: 'DENGUE FEVER',
     bookAuthor: 'Selinam Gakpetor',
+    category: 'infectious',
     content: `<strong>What is Dengue Fever?</strong><br/>
 Dengue fever is a viral illness transmitted by mosquitoes, primarily the <span>Aedes aegypti</span> mosquito. 
 It is common in tropical and subtropical regions. The virus that causes dengue fever can lead to high fever, 
@@ -2179,6 +2220,7 @@ infected, but it is not recommended for everyone.<br/><br/>
     id: 40,
     image: 'Images/chronic_kidney_disease.jpg',
     bookTitle: 'CHRONIC KIDNEY DISEASE[CKD]',
+    category: 'chronic',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `<strong>What is Chronic Kidney Disease (CKD)?</strong><br/>
 Chronic Kidney Disease (CKD) is a long-term condition where the kidneys gradually lose their ability to function 
@@ -2239,6 +2281,7 @@ anti-inflammatory drugs (NSAIDs), is also recommended.<br/><br/>
     image: 'Images/marfan_syndrome.jpg',
     bookTitle: 'MARFAN SYNDROME',
     bookAuthor: 'Selinam Gakpetor',
+    category: 'genetic',
     content: `<strong>What is Marfan Syndrome?</strong><br/>
 Marfan syndrome is a rare genetic disorder that affects the body's connective tissue, which provides structure 
 and support to organs, muscles, and bones. This condition is caused by a mutation in the <span>FBN1 gene</span>, 
@@ -2293,6 +2336,7 @@ cardiovascular events.<br/><br/>
     id: 42,
     image: "Images/chron's_disease.jpg",
     bookTitle: `CROHN'S DISEASE`,
+    category: 'autoimmune',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `<strong>What is Crohn's Disease?</strong><br/>
 Crohn's disease is a type of inflammatory bowel disease (IBD) that causes chronic inflammation of the 
@@ -2348,6 +2392,7 @@ is key to preventing severe complications.<br/><br/>
     id: 43,
     image: 'Images/als.jpg',
     bookTitle: 'AMYOTROHIC LATERAL SCLEROSIS[ALS]',
+    category: 'neurological',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `<strong>What is Amyotrophic Lateral Sclerosis (ALS)?</strong><br/>
 Amyotrophic Lateral Sclerosis (ALS), also known as <span>Lou Gehrig's disease</span>, is a progressive 
@@ -2407,6 +2452,7 @@ Research into ALS is ongoing, and advances in genetic understanding and treatmen
     id: 44,
     image: 'Images/wilsons_disease.jpg',
     bookTitle: `WILSON'S DISEASE`,
+    category: 'metabolic',
     bookAuthor: 'Steven Selorm Amedzro',
     content: `<strong>What is Wilson's Disease?</strong><br/>
 Wilson's disease is a rare genetic disorder in which the body is unable to properly metabolize copper, leading 
@@ -2464,6 +2510,7 @@ treatment and regular monitoring are essential to managing Wilson's disease effe
     id: 45,
     image: 'Images/adhd.jpg',
     bookTitle: 'ATTENTION-DEFICIT [HYPERACTVITY DISORDER, ADHD]',
+    category: 'mental',
     bookAuthor: 'André Edinam Fiawornu',
     content: `<strong>What is Attention-Deficit Hyperactivity Disorder (ADHD)?</strong><br/>
 Attention-Deficit Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder that affects both children and 
@@ -2520,6 +2567,7 @@ by providing clear routines, breaking tasks into smaller steps, and offering pos
     id: 46,
     image: 'Images/tay_sachs disease.jpg',
     bookTitle: 'TAY-SACHS DISEASE',
+    category: 'genetic',
     bookAuthor: 'Lemuel Osae Boateng',
     content: `<strong>What is Tay-Sachs Disease?</strong><br/>
 Tay-Sachs disease is a rare, inherited neurodegenerative disorder that primarily affects children. It is 
@@ -2574,6 +2622,7 @@ options and provides an opportunity for early intervention and support.<br/><br/
     id: 47,
     image: 'Images/insomnia.jpg',
     bookTitle: 'INSOMNIA',
+    category: '',
     bookAuthor: 'Selinam Gakpetor',
     content: `<strong>What is Insomnia?</strong><br/>
 Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or waking up too early 
@@ -2630,6 +2679,7 @@ can also improve sleep quality. For individuals with underlying health condition
     id: 48,
     image: 'Images/diarrhoea.jpg',
     bookTitle: 'DIARRHOEA',
+    category: '',
     bookAuthor: 'Steven Selorm Amezdro',
     content: `<strong>What is Diarrhea?</strong><br/>
 Diarrhea is a condition characterized by frequent, loose, or watery stools. It is often a symptom of an 
@@ -2690,6 +2740,7 @@ help prevent recurrence.<br/><br/>
     id: 49,
     image: 'Images/rabies.jpg',
     bookTitle: 'RABIES',
+    category: '',
     bookAuthor: 'Selinam Gakpetor',
     content: `<strong>What is Rabies?</strong><br/>
 Rabies is a viral disease that primarily affects the central nervous system, leading to brain inflammation and, 
@@ -2749,6 +2800,7 @@ animal bites to health authorities are important preventive measures.<br/><br/>
     id: 50,
     image: 'Images/cancer.jpg',
     bookTitle: 'CANCER',
+    category: '',
     bookAuthor: 'Steven Selorm Amezdro',
     content: `<strong>What is Cancer?</strong><br/>
 Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. These cells can 
