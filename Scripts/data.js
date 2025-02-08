@@ -1030,78 +1030,681 @@ measures may be recommended.<br/><br/>
     id: 21,
     image: `Images/huntinton's_disease.jpg`,
     bookTitle: `HUNTINGTON'S DISEASE`,
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `
+<strong>What is Huntington's Disease?</strong>  
+Huntington's disease (HD) is a progressive <span>neurodegenerative disorder</span> caused by a genetic mutation 
+in the <span>HTT gene</span>, leading to the production of an abnormal protein called <span>huntingtin</span>. 
+This protein damages brain cells, particularly in areas involved in <span>movement</span>, <span>cognition</span>, 
+and <span>behavior</span>. The disease is inherited in an <span>autosomal dominant manner</span>, meaning that 
+if one parent carries the mutated gene, each child has a 50% chance of inheriting it. Symptoms typically appear 
+in <span>mid-adulthood</span>, but the disease can develop earlier in some cases. Huntington's disease leads 
+to progressive disability and ultimately death, with no current cure.
+
+<br/><br/>
+
+<strong>Symptoms of Huntington's Disease</strong>  
+Symptoms of Huntington's disease include uncontrolled movements (<span>chorea</span>), difficulty with <span>coordination</span>, 
+<span>cognitive decline</span>, mood swings, <span>depression</span>, irritability, and <span>personality changes</span>. 
+As the disease progresses, individuals may experience difficulty with <span>speech</span>, <span>swallowing</span>, 
+and <span>walking</span>. <span>Cognitive symptoms</span> include <span>memory problems</span>, poor judgment, 
+and difficulty with <span>decision-making</span>. <span>Psychiatric symptoms</span> can also include <span>anxiety</span> 
+and <span>obsessive-compulsive behaviors</span>. The progression of the disease can lead to significant disability, 
+and individuals with advanced HD may require <span>full-time care</span>.
+
+<br/><br/>
+
+<strong>What Causes Huntington's Disease?</strong>  
+Huntington's disease is caused by a mutation in the <span>HTT gene</span> located on <span>chromosome 4</span>. 
+The mutation leads to an expansion of a <span>CAG repeat</span> in the gene, which causes the production of an 
+abnormal version of the <span>huntingtin protein</span>. This abnormal protein accumulates in <span>brain cells</span>, 
+causing damage, particularly in regions involved in <span>movement</span>, <span>cognition</span>, and <span>emotion</span>. 
+The disease is inherited in an <span>autosomal dominant pattern</span>, so an individual with one affected parent has a 
+50% chance of inheriting the mutated gene.
+
+<br/><br/>
+
+<strong>How is Huntington's Disease Diagnosed?</strong>  
+Huntington's disease is diagnosed through <span>genetic testing</span>, which can confirm the presence of the 
+mutation in the <span>HTT gene</span>. Individuals at risk of HD, especially those with a family history of the
+disorder, may undergo genetic testing if they are experiencing symptoms or want to know if they carry the gene
+before symptoms develop. In addition to genetic testing, doctors may use <span>brain imaging</span> (such as <span>MRI</span> 
+or <span>CT scans</span>) to observe structural changes in the brain and perform <span>neurological exams</span> 
+to assess motor and cognitive function. <span>Family history</span> and <span>clinical evaluation</span> are 
+also important in making a diagnosis.
+
+<br/><br/>
+
+<strong>How is Huntington's Disease Treated?</strong>  
+There is currently no cure for Huntington's disease, and treatment focuses on managing symptoms and improving quality 
+of life. Medications such as <span>neuroleptics</span> (e.g., <span>haloperidol</span>) and <span>antipsychotics</span> 
+can help control <span>chorea</span> and other motor symptoms. <span>Antidepressants</span> and <span>mood-stabilizing 
+medications</span> may be used to manage <span>psychiatric symptoms</span> like <span>depression</span> and irritability. 
+<span>Speech therapy</span>, <span>physical therapy</span>, and <span>occupational therapy</span> can help individuals 
+with <span>communication</span>, <span>coordination</span>, and <span>daily functioning</span>. In advanced stages, 
+individuals may require assistance with activities of <span>daily living</span>, and <span>long-term care</span> 
+may be needed.
+
+<br/><br/>
+
+<strong>How is Huntington's Disease Prevented?</strong>  
+There is currently no known way to prevent Huntington's disease, as it is caused by an inherited genetic mutation. 
+<span>Genetic counseling</span> is recommended for individuals with a family history of HD, especially if they are 
+considering having children. <span>Pre-symptomatic genetic testing</span> may be available for those at risk of
+inheriting the disease, allowing individuals to make informed decisions about family planning. However, due to 
+the nature of the inheritance pattern, the disease cannot be prevented once the mutated gene is present in an 
+individual’s DNA. Research into <span>gene therapies</span> and potential treatments continues, with the hope 
+of finding ways to slow or stop the progression of the disease in the future.`
 
 }, {
     id: 22,
     image: 'Images/multiple sclerosis.jpg',
     bookTitle: 'MULTIPLE SCLEROSIS',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `<strong>What is Multiple Sclerosis (MS)?</strong><br/>
+Multiple Sclerosis (MS) is a chronic disease that affects the central nervous system, including the brain and 
+spinal cord. It occurs when the body’s immune system mistakenly attacks the protective covering (myelin) of nerve 
+fibers, leading to inflammation and damage. This disrupts the normal flow of electrical impulses between the 
+brain and the rest of the body. There are several types of MS, including <span>relapsing-remitting MS</span>, 
+<span>primary progressive MS</span>, and <span>secondary progressive MS</span>, each with different patterns of 
+disease progression.<br/><br/>
 
+<strong>Symptoms of Multiple Sclerosis</strong><br/>
+The symptoms of MS vary widely depending on the location and extent of nerve damage. Common symptoms include 
+<span>muscle weakness</span>, <span>numbness or tingling</span> in the limbs, <span>vision problems</span> 
+(such as blurred vision or double vision), and <span>difficulty walking</span>. Other symptoms can include 
+<span>fatigue</span>, <span>coordination issues</span>, <span>cognitive changes</span> (such as memory problems 
+or difficulty concentrating), and <span>bladder or bowel dysfunction</span>. In severe cases, MS can lead to 
+paralysis.<br/><br/>
+
+<strong>Causes of Multiple Sclerosis</strong><br/>
+The exact cause of MS is not fully understood, but it is believed to be a combination of genetic and environmental 
+factors. MS is considered an <span>autoimmune disease</span>, where the immune system mistakenly attacks the 
+body’s own tissues, specifically the myelin that protects nerve fibers. While the exact trigger is unknown, 
+factors such as <span>viral infections</span> (such as Epstein-Barr virus), <span>genetics</span>, and <span>
+environmental influences</span> (such as vitamin D deficiency) may increase the risk of developing MS. MS is 
+more common in individuals of <span>Northern European descent</span> and those living in regions farther from 
+the equator.<br/><br/>
+
+<strong>How is Multiple Sclerosis Diagnosed?</strong><br/>
+Multiple Sclerosis is diagnosed through a combination of <span>medical history</span>, <span>neurological 
+examination</span>, and <span>imaging tests</span>. An <span>MRI scan</span> (magnetic resonance imaging) is 
+the most commonly used tool to detect areas of damage or plaques in the brain and spinal cord. A lumbar puncture 
+(spinal tap) may also be performed to check for abnormalities in the cerebrospinal fluid. Additionally, blood 
+tests and evoked potential tests (which measure electrical activity in response to stimuli) can help rule out 
+other conditions and support the MS diagnosis.<br/><br/>
+
+<strong>How is Multiple Sclerosis Treated?</strong><br/>
+While there is no cure for MS, treatment focuses on managing symptoms, reducing flare-ups, and slowing disease 
+progression. <span>Medications</span> such as <span>disease-modifying therapies (DMTs)</span> are often used 
+to reduce the frequency and severity of relapses. <span>Corticosteroids</span> may be prescribed during flare-ups 
+to reduce inflammation. Symptom management includes medications for <span>fatigue</span>, <span>muscle spasticity</span>, 
+<span>pain</span>, and <span>bladder or bowel problems</span>. Physical therapy and <span>occupational therapy</span> 
+are also important for maintaining mobility and daily function.<br/><br/>
+
+<strong>How is Multiple Sclerosis Managed?</strong><br/>
+Managing MS often involves a multidisciplinary approach that includes <span>medication</span>, <span>physical 
+therapy</span>, and lifestyle changes. Regular check-ups with a neurologist are necessary to monitor disease 
+progression. <span>Exercise</span> and <span>maintaining a healthy diet</span> are key to improving overall well-being 
+and managing fatigue. Stress management techniques such as <span>relaxation exercises</span>, <span>yoga</span>, 
+and <span>meditation</span> can also be beneficial. <span>Support groups</span> and <span>mental health counseling</span> 
+are helpful for coping with the emotional challenges of living with MS.<br/><br/>
+
+<strong>How Multiple Sclerosis Can Be Prevented?</strong><br/>
+There is currently no known way to prevent MS, as its exact cause is not well understood. However, certain lifestyle 
+factors may help reduce the risk of developing MS or slow its progression. Maintaining adequate levels of <span>vitamin D</span>, 
+avoiding smoking, and reducing stress may have protective effects. Early diagnosis and timely treatment with 
+disease-modifying therapies (DMTs) can help slow disease progression and improve quality of life for those with 
+MS.<br/><br/>
+`
 }, {
     id: 23,
     image: 'Images/stroke.jpg',
     bookTitle: 'STROKE',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: 
+`<strong>What is a Stroke?</strong><br/>
+A stroke is a medical emergency that occurs when the blood flow to a part of the brain is interrupted, either 
+by a blockage or a rupture of a blood vessel. Without proper blood supply, brain cells begin to die, leading to 
+brain damage. There are two main types of stroke: <span>ischemic stroke</span> (caused by a blockage of a blood 
+vessel) and <span>hemorrhagic stroke</span> (caused by the rupture of a blood vessel). A <span>transient ischemic 
+attack (TIA)</span>, also known as a 'mini-stroke', is a temporary blockage that causes stroke-like symptoms 
+but does not result in permanent brain damage.<br/><br/>
+
+<strong>Symptoms of a Stroke</strong><br/>
+The symptoms of a stroke can vary depending on the part of the brain affected, but common signs include <span>sudden 
+numbness or weakness</span> in the face, arm, or leg, especially on one side of the body. Other symptoms include 
+<span>confusion</span>, <span>difficulty speaking or understanding speech</span>, <span>trouble seeing in one 
+or both eyes</span>, <span>severe headache</span> (particularly in hemorrhagic stroke), and <span>difficulty 
+walking</span> or <span>loss of coordination</span>. The acronym <span>FAST</span> is often used to help identify 
+a stroke: 
+<br/>- <span>F</span> (Face drooping), 
+<br/>- <span>A</span> (Arm weakness), 
+<br/>- <span>S</span> (Speech difficulty), 
+<br/>- <span>T</span> (Time to call emergency services).<br/><br/>
+
+<strong>Causes of Stroke</strong><br/>
+Stroke can be caused by a variety of factors. The two main causes are <span>ischemic stroke</span>, which occurs 
+when a blood clot blocks a blood vessel in the brain, and <span>hemorrhagic stroke</span>, which occurs when a 
+blood vessel in the brain ruptures and causes bleeding. The primary risk factors for stroke include <span>high 
+blood pressure</span>, <span>heart disease</span>, <span>diabetes</span>, <span>high cholesterol</span>, and 
+<span>smoking</span>. Other risk factors include <span>age</span> (older adults are more likely to have strokes), 
+<span>family history</span> of stroke, and <span>being overweight or obese</span>. Certain lifestyle factors, 
+such as <span>poor diet</span>, <span>lack of exercise</span>, and <span>excessive alcohol consumption</span>, 
+can also increase the risk of stroke.<br/><br/>
+
+<strong>How is a Stroke Diagnosed?</strong><br/>
+Stroke is diagnosed through a combination of <span>physical examination</span>, <span>neurological assessment</span>, 
+and <span>imaging tests</span>. A <span>CT scan</span> (computed tomography) or an <span>MRI scan</span> (magnetic resonance 
+imaging) is typically performed to determine the type of stroke (ischemic or hemorrhagic) and to locate the 
+area of brain damage. Additional tests, such as <span>ultrasound</span> of the carotid arteries or <span>angiography</span>, 
+may be performed to look for blood clots or other blockages in the blood vessels. Blood tests are also done to 
+assess underlying conditions that may have contributed to the stroke.<br/><br/>
+
+<strong>How is a Stroke Treated?</strong><br/>
+Treatment for a stroke depends on the type of stroke and how quickly it is treated. In the case of an <span>ischemic 
+stroke</span>, the main goal is to restore blood flow to the brain. <span>Thrombolytic medications</span> (also 
+known as clot-busting drugs) may be administered within a certain time frame to dissolve the clot and restore 
+blood flow. In some cases, <span>mechanical thrombectomy</span> (removal of the clot) may be performed. For <span>hemorrhagic 
+stroke</span>, treatment focuses on controlling bleeding and reducing pressure on the brain. This may involve 
+surgery to repair the ruptured blood vessel or medication to control bleeding. After the acute phase, rehabilitation 
+is essential to help the person recover and regain lost abilities.<br/><br/>
+
+<strong>How is a Stroke Managed?</strong><br/>
+Stroke management involves both immediate treatment and long-term rehabilitation. After a stroke, patients may 
+require <span>physical therapy</span>, <span>occupational therapy</span>, and <span>speech therapy</span> to help 
+regain lost motor skills, improve communication, and learn how to perform daily activities. Medications may be 
+prescribed to manage risk factors such as <span>high blood pressure</span>, <span>high cholesterol</span>, and 
+<span>blood clot prevention</span>. Lifestyle changes, including a <span>healthy diet</span>, <span>regular exercise</span>, 
+and <span>smoking cessation</span>, are crucial for preventing further strokes. Emotional support and counseling 
+may also be important, as many stroke survivors experience depression or anxiety during recovery.<br/><br/>
+
+<strong>How to Prevent a Stroke?</strong><br/>
+Stroke prevention focuses on managing risk factors and making healthy lifestyle choices. The key strategies include 
+<span>controlling high blood pressure</span>, <span>quitting smoking</span>, <span>maintaining a healthy weight</span>, 
+and <span>regular exercise</span>. Eating a <span>balanced diet</span> low in salt and saturated fats can help 
+prevent conditions such as <span>high cholesterol</span> and <span>diabetes</span>, which increase stroke risk. 
+Medications may also be prescribed to prevent blood clots, especially for individuals with <span>atrial fibrillation</span> 
+or a history of stroke. Regular health check-ups and early management of risk factors are essential for preventing 
+stroke.<br/><br/>
+    `
 
 }, {
     id: 24,
     image: 'Images/pku.jpg',
-    bookTitle: 'PHENYLKETONURIA',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookTitle: 'PHENYLKETONURIA [PKU]',
+    bookAuthor: 'Lemuel Osae Boateng',
+    content: `
+<strong>What is Phenylketonuria (PKU)?</strong><br/>
+Phenylketonuria (PKU) is a rare genetic disorder in which the body cannot properly break down an amino acid 
+called <span>phenylalanine</span>. This is due to a deficiency of the enzyme <span>phenylalanine hydroxylase</span>. 
+When phenylalanine builds up in the blood, it can cause brain damage and intellectual disabilities. PKU is 
+inherited in an <span>autosomal recessive</span> pattern, meaning both parents must carry the gene for a child 
+to develop the condition. Early diagnosis and treatment are crucial to prevent severe complications.<br/><br/>
+
+<strong>Symptoms of Phenylketonuria</strong><br/>
+At birth, babies with PKU often appear normal. However, if left untreated, symptoms begin to appear within a 
+few months. Early symptoms of PKU include <span>vomiting</span>, <span>seizures</span>, <span>delayed development</span>, 
+and <span>intellectual disability</span>. As the condition progresses, untreated PKU can cause <span>skin rashes</span> 
+(eczema), <span>musty odor</span> to the urine and breath, <span>hyperactivity</span>, and <span>poor motor 
+coordination</span>. Over time, severe cases can result in <span>cognitive impairment</span> and <span>behavioral 
+problems</span>. Early intervention can prevent these severe symptoms and improve the child’s development.<br/><br/>
+
+<strong>Causes of Phenylketonuria</strong><br/>
+PKU is caused by mutations in the <span>PAH gene</span>, which is responsible for producing the enzyme 
+phenylalanine hydroxylase. This enzyme breaks down phenylalanine, an amino acid found in many protein-rich 
+foods. When the enzyme is deficient or absent, phenylalanine accumulates to harmful levels in the body. PKU is 
+inherited in an <span>autosomal recessive</span> manner, meaning a child must inherit two copies of the defective 
+gene—one from each parent—to develop the disorder. If only one defective gene is inherited, the person is a 
+carrier and usually does not show symptoms.<br/><br/>
+
+<strong>How is Phenylketonuria Diagnosed?</strong><br/>
+PKU is usually diagnosed through a <span>newborn screening test</span>, which is performed shortly after birth.
+This test measures the levels of phenylalanine in the baby’s blood. If PKU is suspected, further diagnostic tests, 
+such as <span>genetic testing</span> or an <span>enzyme activity test</span>, can confirm the diagnosis. Early 
+detection is essential because treatment started early can prevent the developmental and cognitive problems 
+associated with untreated PKU.<br/><br/>
+
+<strong>How is Phenylketonuria Treated?</strong><br/>
+While there is no cure for PKU, the condition can be effectively managed through strict dietary control. The 
+primary treatment involves <span>restricting phenylalanine</span> intake by avoiding foods that contain high 
+amounts of protein, such as <span>meat</span>, <span>fish</span>, <span>dairy products</span>, and <span>eggs</span>. 
+Special <span>low-phenylalanine formula</span> and <span>dietary supplements</span> are often used to ensure 
+adequate nutrition. A <span>phenylalanine-free diet</span> is typically followed throughout life, with careful 
+monitoring of blood phenylalanine levels. Some individuals may also receive medications, such as <span>sapropterin 
+dihydrochloride</span>, to help improve enzyme activity. In rare cases, <span>gene therapy</span> may be explored 
+as a future treatment option.<br/><br/>
+
+<strong>How is Phenylketonuria Managed?</strong><br/>
+Managing PKU requires lifelong dietary monitoring and regular blood tests to check phenylalanine levels. 
+Individuals with PKU must adhere to a <span>low-phenylalanine diet</span> to prevent cognitive impairment and 
+developmental issues. In addition to the special diet, patients may need to take <span>amino acid supplements</span> 
+to provide essential nutrients that are missing from their diet. <span>Family support</span> is critical in helping 
+individuals with PKU stick to their treatment plan, as the dietary restrictions can be challenging. Regular 
+follow-ups with a healthcare provider, including a dietitian, are essential for ongoing management.<br/><br/>
+
+<strong>How to Prevent Phenylketonuria?</strong><br/>
+Since PKU is a genetic disorder, it cannot be prevented, but it can be detected early through newborn screening. 
+Parents who are carriers of the PKU gene can undergo <span>genetic counseling</span> to understand the risks 
+and options before having children. If PKU is diagnosed early in an infant, strict adherence to a low-phenylalanine 
+diet can prevent the development of symptoms and promote normal cognitive and physical development. Prenatal 
+screening for PKU is also available, allowing parents to make informed decisions during pregnancy.<br/><br/>
+`
 
 }, {
     id: 25,
     image: 'Images/schizophrenia.jpg',
     bookTitle: 'SCHIZOPHRENIA',
     bookAuthor: 'André Edinam Fiawornu',
-    content: ''
+    content: `<strong>What is Schizophrenia?</strong><br/>
+Schizophrenia is a chronic and severe mental health disorder that affects how a person thinks, feels, and 
+behaves. People with schizophrenia may experience <span>delusions</span> (false beliefs), <span>hallucinations
+</span> (false perceptions, such as hearing voices), and <span>disorganized thinking</span> or speech. The 
+condition can make it difficult for individuals to distinguish between what is real and what is not. Schizophrenia 
+typically appears in late adolescence or early adulthood and affects both men and women, though it often develops 
+earlier in men.<br/><br/>
+
+<strong>Symptoms of Schizophrenia</strong><br/>
+Symptoms of schizophrenia are generally categorized into three types: <span>positive</span>, <span>negative</span>, and <span>cognitive</span> symptoms.
+- <span>Positive symptoms</span> include hallucinations (e.g., hearing voices), delusions (e.g., believing one has special powers), 
+and <span>disorganized speech or behavior</span>.<br/>
+- <span>Negative symptoms</span> refer to a decrease in normal functioning, such as <span>lack of motivation</span>, 
+<span>reduced emotional expression</span>, <span>social withdrawal</span>, and <span>inability to experience pleasure</span>.<br/>
+- <span>Cognitive symptoms</span> affect memory and cognitive abilities, leading to issues such as <span>poor attention</span>, 
+<span>impaired working memory</span>, and <span>difficulty planning or organizing tasks</span>.<br/><br/>
+
+<strong>Causes of Schizophrenia</strong><br/>
+The exact cause of schizophrenia is not fully understood, but it is believed to involve a combination of genetic, 
+biological, and environmental factors. Some of the main factors include:<br/>
+- <span>Genetics</span>: Schizophrenia tends to run in families, suggesting a genetic component. If a person 
+has a first-degree relative with schizophrenia, their risk of developing the disorder is higher.<br/>
+- <span>Brain chemistry and structure</span>: Imbalances in certain neurotransmitters, particularly <span>
+dopamine</span> and <span>glutamate</span>, are thought to play a role in the development of schizophrenia. 
+Abnormalities in brain structure, such as enlarged ventricles, have also been observed in people with the 
+disorder.<br/>
+- <span>Environmental factors</span>: Stressful life events, prenatal exposure to infections, malnutrition, 
+or drug abuse can increase the risk of schizophrenia. <span>Cannabis use</span> during adolescence, especially 
+in individuals with a genetic predisposition, may also trigger the onset of schizophrenia.<br/><br/>
+
+<strong>How is Schizophrenia Diagnosed?</strong><br/>
+Schizophrenia is diagnosed through a thorough psychiatric evaluation, which includes an assessment of the 
+person's medical history, symptoms, and family history of mental health disorders. There are no specific tests 
+to diagnose schizophrenia, but doctors may conduct <span>physical exams</span> and <span>laboratory tests</span> 
+to rule out other conditions that could be causing symptoms. A mental health professional may use <span>structured 
+interviews</span> and <span>diagnostic criteria</span> from the DSM-5 (Diagnostic and Statistical Manual of 
+Mental Disorders) to make a diagnosis. The symptoms must be present for at least six months for a diagnosis of 
+schizophrenia.<br/><br/>
+
+<strong>How is Schizophrenia Treated?</strong><br/>
+Schizophrenia is typically treated with a combination of <span>medications</span> and <span>therapy</span>.<br/>
+- <span>Antipsychotic medications</span>: These are the primary treatment for schizophrenia and are used to manage 
+symptoms, particularly positive symptoms like hallucinations and delusions. Newer medications, called <span>atypical 
+antipsychotics</span>, tend to have fewer side effects than older medications.<br/>
+- <span>Psychotherapy</span>: Cognitive behavioral therapy (CBT) and other forms of therapy can help 
+individuals with schizophrenia manage their symptoms, improve functioning, and cope with stress. Therapy also 
+helps patients understand their condition and stay adherent to their treatment plan.<br/>
+- <span>Supportive services</span>: Social skills training, vocational rehabilitation, and other 
+community-based programs can assist individuals in reintegrating into society and improving their quality of 
+life.<br/><br/>
+
+<strong>How is Schizophrenia Managed?</strong><br/>
+Managing schizophrenia requires long-term care and monitoring. In addition to medications and therapy, 
+patients often need <span>family support</span> and <span>community resources</span> to help manage daily 
+activities and improve social functioning. Treatment adherence is essential, as individuals with schizophrenia 
+may sometimes struggle with maintaining their medication regimen. Regular follow-up appointments with mental 
+health professionals are necessary to monitor symptom progression, adjust treatment plans, and address any side
+effects from medications. Crisis intervention services may also be required in cases of severe symptoms or 
+relapses.<br/><br/>
+
+<strong>How to Prevent Schizophrenia?</strong><br/>
+Currently, there is no known way to prevent schizophrenia, as the condition has a strong genetic component. 
+However, early intervention and treatment can significantly improve outcomes and reduce the severity of 
+symptoms. For individuals at high risk, such as those with a family history of schizophrenia or those who 
+have experienced early signs or symptoms, early treatment and support can prevent the disorder from worsening. 
+<span>Drug and alcohol prevention</span>, especially avoiding cannabis use during adolescence, can help reduce
+the risk of triggering the onset of schizophrenia in those genetically predisposed.<br/><br/>
+`
 
 }, {
     id: 26,
     image: 'Images/malaria.jpg',
     bookTitle: 'MALARIA',
     bookAuthor: 'André Edinam Fiawornu',
-    content: ''
+    content: `<strong>What is Malaria?</strong><br/>
+Malaria is a serious and sometimes life-threatening disease caused by a parasite that is transmitted to humans 
+through the bite of an infected <span>Anopheles mosquito</span>. The parasites responsible for malaria are from
+the <span>Plasmodium</span> species, with <span>Plasmodium falciparum</span> being the most dangerous. Malaria 
+is prevalent in tropical and subtropical regions, especially in sub-Saharan Africa, Asia, and parts of Central 
+and South America. The disease is characterized by high fever, chills, and flu-like symptoms.<br/><br/>
 
+<strong>Symptoms of Malaria</strong><br/>
+Symptoms of malaria typically appear within 10 to 15 days after being bitten by an infected mosquito. 
+The most common symptoms include:<br/>
+- <span>Fever</span><br/>
+- <span>Chills</span><br/>
+- <span>Headache</span><br/>
+- <span>Fatigue</span><br/>
+- <span>Nausea and vomiting</span><br/>
+- <span>Muscle pain</span><br/>
+- <span>Night sweats</span><br/>
+In severe cases, malaria can cause <span>organ failure</span>, <span>anemia</span>, <span>seizures</span>, and 
+even death if not treated promptly. <span>Plasmodium falciparum</span> malaria can cause rapid and severe 
+complications, such as cerebral malaria, which affects the brain.<br/><br/>
+
+<strong>Causes of Malaria</strong><br/>
+Malaria is caused by a parasite from the genus <span>Plasmodium</span>. The four most common species of 
+<span>Plasmodium</span> that cause malaria in humans are:<br/>
+- <span>Plasmodium falciparum</span><br/>
+- <span>Plasmodium vivax</span><br/>
+- <span>Plasmodium ovale</span><br/>
+- <span>Plasmodium malariae</span><br/>
+The disease is transmitted when a female <span>Anopheles mosquito</span> bites an infected person, ingesting 
+the parasite from their blood. Once inside the mosquito, the parasite matures and is later passed on to another
+ person when the mosquito bites again. The parasite enters the bloodstream, travels to the liver, and then infects 
+ red blood cells, leading to the symptoms of malaria.<br/><br/>
+
+<strong>How is Malaria Diagnosed?</strong><br/>
+Malaria is diagnosed through a <span>blood test</span>, which detects the presence of the 
+<span>Plasmodium parasite</span> in the blood. The most common method is a <span>microscopic examination</span>
+of a blood smear, where a healthcare provider examines a sample of blood under a microscope. Other diagnostic 
+methods include <span>rapid diagnostic tests (RDTs)</span>, which detect malaria antigens, and <span>polymerase 
+chain reaction (PCR)</span> tests, which can identify the genetic material of the parasite. Early diagnosis is 
+critical to start treatment promptly and reduce the risk of complications.<br/><br/>
+
+<strong>How is Malaria Treated?</strong><br/>
+The treatment of malaria typically involves <span>antimalarial medications</span> to kill the Plasmodium 
+parasites. The type of medication used depends on the species of <span>Plasmodium</span> causing the infection, 
+the severity of the disease, and the region where the infection was acquired. Common antimalarial drugs include:<br/>
+- <span>Artemisinin-based combination therapies (ACTs)</span>: These are the first-line treatment for uncomplicated 
+malaria caused by <span>Plasmodium falciparum</span>.<br/>
+- <span>Chloroquine</span>: Used for <span>Plasmodium vivax</span> and other less severe cases of malaria.<br/>
+- <span>Quinine</span>: Often used in severe cases or when other treatments fail.<br/>
+- <span>Primaquine</span>: Used to prevent relapse of malaria caused by <span>Plasmodium vivax</span> and 
+<span>Plasmodium ovale</span>.<br/>
+Severe malaria requires hospitalization and may involve intravenous (IV) administration of antimalarial 
+drugs.<br/><br/>
+
+<strong>How is Malaria Prevented?</strong><br/>
+Malaria can be prevented by reducing exposure to infected mosquitoes and using preventive medications. 
+Some of the main prevention strategies include:<br/>
+- <span>Insecticide-treated bed nets (ITNs)</span>: Sleeping under bed nets treated with insecticides is one 
+of the most effective ways to prevent mosquito bites during the night.<br/>
+- <span>Indoor spraying with insecticides</span>: Spraying the interior of homes with insecticides can help 
+kill mosquitoes and prevent malaria transmission.<br/>
+- <span>Antimalarial medications</span>: Travelers to malaria-endemic areas may be prescribed antimalarial 
+drugs, such as <span>chloroquine</span> or <span>atovaquone-proguanil</span>, to prevent infection.<br/>
+- <span>Elimination of mosquito breeding sites</span>: Reducing standing water sources, such as puddles, ponds, 
+and containers, can help minimize mosquito populations.<br/>
+- <span>Vaccination</span>: The RTS,S/AS01 malaria vaccine has been developed and is used in some countries to 
+help prevent malaria in children. It is not a substitute for other preventive measures, but it can provide additional 
+protection.<br/><br/>
+
+<strong>How is Malaria Managed?</strong><br/>
+Malaria requires prompt treatment to avoid complications, and managing the disease focuses on providing the correct 
+medication, monitoring for severe symptoms, and preventing relapse. In regions where malaria is endemic, ongoing public 
+health efforts focus on reducing mosquito populations, providing insecticide-treated nets, and promoting awareness 
+about malaria prevention. Malaria management also includes ensuring individuals with severe malaria receive appropriate 
+care, such as intravenous fluids, blood transfusions, and management of organ failure.<br/><br/>
+`
 }, {
     id: 27,
     image: 'Images/asthma.jpg',
     bookTitle: 'Asthma',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: `<strong>What is Asthma?</strong><br/>
+Asthma is a chronic respiratory condition that affects the airways in the lungs, causing them to become i
+nflamed and narrowed. This leads to difficulty breathing, wheezing, shortness of breath, and coughing, 
+especially during physical activity or at night. Asthma can affect people of all ages but is often diagnosed 
+in childhood. It is a condition that can range from mild to severe, and although there is no cure, asthma can 
+usually be managed with proper treatment and lifestyle adjustments.<br/><br/>
+
+<strong>Symptoms of Asthma</strong><br/>
+The symptoms of asthma can vary from person to person and can range from mild to severe. Common symptoms 
+include:<br/>
+- <span>Wheezing</span> (a high-pitched whistling sound when breathing)<br/>
+- <span>Shortness of breath</span><br/><br/>
+- <span>Coughing</span>, especially at night or early in the morning<br/
+- <span>Tightness in the chest</span><br/>
+These symptoms often occur or worsen in response to triggers such as allergens, exercise, cold air, or 
+respiratory infections. In severe cases, an asthma attack can cause difficulty in breathing, which may require 
+emergency treatment.<br/>
+
+<strong>Causes of Asthma</strong><br/>
+The exact cause of asthma is not fully understood, but it is believed to be the result of a combination of 
+genetic and environmental factors. Some common causes and triggers of asthma include:<br/>
+- <span>Genetics</span>: A family history of asthma or other allergic conditions increases the risk of developing 
+asthma.<br/>
+- <span>Allergens</span>: Exposure to substances like pollen, pet dander, mold, dust mites, and cockroach 
+droppings can trigger asthma symptoms.<br/>
+- <span>Air pollution and irritants</span>: Exposure to smoke, strong odors, air pollution, and chemicals can 
+irritate the airways and lead to asthma attacks.<br/>
+- <span>Respiratory infections</span>: Viral infections, such as the common cold, can exacerbate asthma 
+symptoms.<br/>
+- <span>Exercise</span>: Physical activity, particularly in cold, dry air, can trigger asthma symptoms in some 
+people.<br/>
+- <span>Stress</span>: Emotional stress and anxiety can sometimes trigger or worsen asthma symptoms.<br/><br/>
+
+<strong>How is Asthma Diagnosed?</strong><br/>
+Asthma is diagnosed through a combination of medical history, physical examination, and specific tests. Some of
+the key diagnostic methods include:<br/>
+- <span>Pulmonary function tests (PFTs)</span>: These tests measure how much air you can exhale and how quickly, 
+helping to assess lung function.<br/>
+- <span>Spirometry</span>: A test that measures how much air you can breathe in and out, and how fast you can 
+blow air out. It helps to determine if airflow is restricted, a hallmark of asthma.<br/>
+- <span>Peak flow monitoring</span>: This involves using a peak flow meter to measure the rate at which you 
+can exhale air. Monitoring peak flow can help detect early signs of worsening asthma.<br/><br/>
+- <span>Allergy tests</span>: Skin or blood tests can help identify specific allergens that may trigger asthma 
+symptoms.<br/>
+
+<strong>How is Asthma Treated?</strong><br/>
+While asthma cannot be cured, it can be managed with the right treatment plan. The goal of asthma treatment is 
+to control symptoms, reduce inflammation, and prevent asthma attacks. Treatment typically includes:<br/>
+- <span>Inhalers</span>: There are two main types of inhalers used to treat asthma:<br/>
+- <span>Reliever inhalers</span> (e.g., short-acting beta-agonists) provide quick relief during an asthma attack 
+by relaxing the muscles around the airways.<br/>
+- <span>Preventer inhalers</span> (e.g., corticosteroids) are used on a daily basis to reduce inflammation and 
+prevent asthma symptoms.<br/>
+- <span>Oral medications</span>: In some cases, doctors may prescribe oral medications such as corticosteroids 
+or leukotriene modifiers to reduce inflammation or control symptoms.<br/>
+- <span>Biologics</span>: For severe asthma, biologic medications may be prescribed to target specific parts of
+the immune system involved in asthma inflammation.<br/>
+- <span>Avoidance of triggers</span>: Identifying and avoiding allergens and environmental triggers is an 
+important part of asthma management.<br/>
+- <span>Allergy treatment</span>: If allergies are a trigger, antihistamines, allergy shots (immunotherapy), 
+or other allergy medications may be helpful.<br/>
+
+<strong>How is Asthma Managed?</strong><br/>
+Asthma management involves regular monitoring of symptoms, avoiding triggers, and adhering to prescribed 
+medications. Key strategies include:<br/>
+- <span>Regular monitoring</span>: Keeping track of symptoms and peak flow measurements can help detect early 
+signs of worsening asthma.<br/>
+- <span>Action plan</span>: Work with your healthcare provider to create an asthma action plan that outlines 
+steps to take in case of worsening symptoms or an asthma attack.<br/>
+- <span>Healthy lifestyle</span>: Eating a balanced diet, exercising regularly (with proper precautions), and 
+avoiding smoking or exposure to secondhand smoke can help manage asthma.<br/>
+- <span>Environmental control</span>: Reducing exposure to common asthma triggers, such as using air purifiers, 
+reducing pet dander, and controlling mold and dust mites, can make a significant difference.<br/>
+
+<strong>How to Prevent Asthma Flare-ups?</strong><br/>
+While asthma cannot be completely prevented, there are several ways to reduce the frequency and severity of 
+flare-ups:<br/>
+- <span>Adhere to prescribed medications</span>: Take medications exactly as prescribed by your healthcare 
+provider, even when you feel well.<br/>
+- <span>Avoid triggers</span>: Identify and avoid common triggers like allergens, tobacco smoke, air pollution, 
+and cold air.<br/>
+- <span>Manage allergies</span>: Treating allergies with antihistamines or allergy shots can help reduce 
+asthma symptoms.<br/>
+- <span>Exercise carefully</span>: People with asthma can exercise but may need to take precautions, such as 
+using a reliever inhaler before physical activity and warming up properly.<br/><br/>
+- <span>Vaccinations</span>: Getting vaccinated against flu and pneumonia can help reduce the risk of respiratory 
+infections, which can trigger asthma symptoms.<br/>
+- <span>Stay informed</span>: Educate yourself about asthma triggers and control methods, and keep up with 
+regular check-ups with your doctor to adjust your treatment plan as needed.<br/>
+`
 
 }, {
     id: 28,
     image: 'Images/down_syndrome.jpg',
     bookTitle: 'DOWN SYNDROME',
     bookAuthor: 'André Edinam Fiawornu',
-    content: ''
+    content: `<strong>What is Down Syndrome?</strong><br/>
+Down syndrome is a genetic condition that results from an extra copy of chromosome 21, which affects physical 
+and intellectual development. The presence of this extra chromosome leads to a range of physical, developmental, 
+and cognitive challenges. While individuals with Down syndrome often have characteristic physical features, 
+the severity of the condition can vary. With early interventions, people with Down syndrome can lead fulfilling
+lives and reach their potential. The condition occurs in about 1 in every 700 births worldwide.<br/><br/>
+
+<strong>Symptoms of Down Syndrome</strong><br/>
+People with Down syndrome exhibit several common physical features, including a flat facial profile, almond-shaped 
+eyes with an upward slant, small ears, a short neck, low muscle tone (hypotonia), and short stature. Cognitive 
+symptoms include developmental delays, particularly in language and motor skills. The intellectual disabilities 
+can range from mild to moderate, and individuals often show delays in speech and motor skills development.<br/><br/>
+
+<strong>Causes of Down Syndrome</strong><br/>
+Down syndrome is caused by a genetic error where an individual has three copies of chromosome 21 instead of the 
+usual two. This extra genetic material disrupts normal development in the brain and body. The vast majority of 
+cases occur randomly during cell division and are not inherited. The risk of having a child with Down syndrome 
+increases with maternal age, especially for women over the age of 35.<br/><br/>
+
+<strong>How is Down Syndrome Diagnosed?</strong><br/>
+Down syndrome can be diagnosed before or after birth. During pregnancy, screening tests such as blood tests and 
+ultrasounds can assess the likelihood of Down syndrome. Confirmatory tests, including amniocentesis or chorionic 
+villus sampling (CVS), can be performed to definitively diagnose the condition. After birth, a healthcare 
+provider may perform a physical examination and conduct genetic testing (like a chromosomal karyotype test) to 
+confirm the diagnosis.<br/><br/>
+
+<strong>How is Down Syndrome Treated?</strong><br/>
+Although there is no cure for Down syndrome, early intervention is crucial. Treatment typically involves a 
+team of healthcare professionals, including doctors, speech therapists, and physical therapists. Early 
+intervention programs are designed to improve motor skills, language development, and social skills. Speech 
+therapy is commonly used to address communication challenges, while physical therapy focuses on improving 
+muscle tone and coordination. Educational support is tailored to the individual, focusing on intellectual 
+disabilities and specialized learning needs. Additionally, people with Down syndrome may require medical 
+treatment for associated conditions such as heart defects or thyroid issues.<br/><br/>
+
+<strong>How is Down Syndrome Managed?</strong><br/>
+Managing Down syndrome requires a comprehensive approach that includes regular monitoring by healthcare 
+professionals to address any associated medical conditions, such as heart defects, vision or hearing problems, 
+and thyroid issues. Therapy and educational programs are vital in promoting social skills, intellectual growth, 
+and independence. Family support is also crucial, as family members play an essential role in the well-being 
+and development of the individual. Encouraging social inclusion and providing opportunities for independence 
+can help individuals with Down syndrome lead productive and fulfilling lives.<br/><br/>
+
+<strong>How to Support Individuals with Down Syndrome?</strong><br/>
+Supporting individuals with Down syndrome involves creating an environment that fosters development and 
+encourages independence. Key strategies include providing a consistent structure and routine for daily tasks,
+promoting early learning through play and communication, and supporting social interaction to build self-esteem. 
+Working with professionals to design individualized educational plans can also ensure that people with Down 
+syndrome have the necessary support to succeed. It's important to be patient and understanding, as individuals 
+with Down syndrome may take longer to achieve certain milestones or complete tasks.<br/><br/>
+`
 
 }, {
     id: 29,
     image: `Images/hashimoto's_thyroiditis.jpg`,
     bookTitle: `HASHIMOTO'S THYROIDITIS`,
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Steven Selorm Amedzro',
+    content: `
+    <strong>What is Hashimoto's Thyroiditis?</strong><br/>
+Hashimoto's thyroiditis, also known as Hashimoto's disease, is an autoimmune disorder where the body's immune 
+system attacks the thyroid gland, a small butterfly-shaped organ in the neck that produces hormones that 
+regulate metabolism. Over time, this damage causes the thyroid to produce insufficient amounts of thyroid 
+hormones, leading to a condition known as <span>hypothyroidism</span>.<br/><br/>
+
+<strong>Symptoms of Hashimoto's Thyroiditis</strong><br/>
+Common symptoms of Hashimoto's thyroiditis include <span>fatigue</span>, <span>weight gain</span>, <span>cold 
+intolerance</span> (feeling unusually cold even in warm environments), <span>constipation</span>, <span>dry 
+skin</span>, and <span>hair loss</span>. Other signs may include <span>muscle weakness</span>, <span>hoarseness</span>, 
+and <span>joint pain</span>. As the disease progresses, the thyroid gland may become enlarged, leading to a 
+condition known as a <span>goiter</span>. In some cases, people may experience <span>depression</span> or 
+<span>memory issues</span>.<br/><br/>
+
+<strong>What Causes Hashimoto's Thyroiditis?</strong><br/>
+Hashimoto's thyroiditis occurs when the immune system mistakenly attacks the thyroid gland. The exact cause of 
+this autoimmune reaction is not fully understood but is believed to involve a combination of genetic and 
+environmental factors. A family history of autoimmune diseases or thyroid disorders may increase the risk of 
+developing Hashimoto's thyroiditis. Additionally, certain factors such as stress, pregnancy, and viral infections 
+may trigger or worsen the condition.<br/><br/>
+
+<strong>How is Hashimoto's Thyroiditis Diagnosed?</strong><br/>
+Hashimoto's thyroiditis is diagnosed through <span>blood tests</span> that measure thyroid hormone levels and 
+the presence of specific antibodies. A <span>TSH (thyroid-stimulating hormone) test</span> measures the level 
+of TSH, which is typically elevated in cases of hypothyroidism. The <span>free T4 test</span> measures the 
+level of thyroid hormone in the blood, which is usually low in Hashimoto's disease. Additionally, an <span>anti-thyroid 
+peroxidase (TPO) antibody test</span> can help detect antibodies that attack the thyroid gland.<br/><br/>
+
+<strong>How is Hashimoto's Thyroiditis Treated?</strong><br/>
+The main treatment for Hashimoto's thyroiditis is <span>thyroid hormone replacement therapy</span>, typically 
+using synthetic <span>levothyroxine</span>, which helps normalize thyroid hormone levels and manage symptoms 
+of hypothyroidism. Treatment is usually lifelong, and the dose may need to be adjusted periodically based on 
+blood tests. In some cases, patients may also need other medications to address specific symptoms like depression 
+or joint pain. <span>Regular monitoring</span> of thyroid hormone levels is necessary to ensure optimal treatment.<br/><br/>
+
+<strong>How is Hashimoto's Thyroiditis Prevented?</strong><br/>
+Currently, there is no known way to prevent Hashimoto's thyroiditis, as it is an autoimmune disease. However, 
+maintaining a healthy lifestyle, managing stress, and avoiding environmental triggers such as excessive iodine 
+intake or certain infections may help reduce the risk of developing the condition. People with a family history
+of autoimmune thyroid disease should be vigilant about monitoring their thyroid health and seek early medical 
+attention if they experience symptoms.<br/><br/>
+`
 
 }, {
     id: 30,
     image: 'Images/migraine.jpg',
     bookTitle: 'MIGRAINE',
     bookAuthor: 'Eyram Donkor',
-    content: ''
+    content: `
+    <strong>What is Migraine?</strong><br/>
+Migraine is a neurological condition characterized by recurrent, severe headaches often accompanied by other 
+symptoms such as nausea, vomiting, and sensitivity to light and sound. These headaches typically affect one 
+side of the head and can last anywhere from a few hours to several days. Migraines are often preceded by an 
+<span>aura</span>, which can include visual disturbances like flashing lights or blind spots. The exact cause 
+of migraines is not fully understood but is believed to involve genetic, environmental, and neurological 
+factors.<br/><br/>
+
+<strong>Symptoms of Migraine</strong><br/>
+The symptoms of a migraine can vary from person to person but typically include <span>severe throbbing or 
+pulsating headaches</span>, usually on one side of the head. Other common symptoms include <span>nausea</span>, <span>vomiting</span>, <span>light sensitivity (photophobia)</span>, and <span>sound sensitivity (phonophobia)</span>. Many people also experience <span>visual disturbances</span> or <span>aura</span> before the headache begins. Migraines can be accompanied by <span>dizziness</span> or <span>neck pain</span>, and in some cases, the pain can be so debilitating that it affects daily activities.<br/><br/>
+
+<strong>What Causes Migraine?</strong><br/>
+The exact cause of migraines is still unclear, but it is thought to be related to abnormal brain activity and 
+changes in the way the brain processes signals. Migraines may be triggered by a combination of factors, 
+including <span>genetics</span>, <span>hormonal changes</span> (especially in women), <span>stress</span>, 
+<span>certain foods</span> (such as chocolate, cheese, and caffeine), and <span>environmental factors</span> 
+(like bright lights, strong smells, or weather changes). Additionally, <span>lack of sleep</span> and <span>
+dehydration</span> can also act as triggers.<br/><br/>
+
+<strong>How is Migraine Diagnosed?</strong><br/>
+Migraine is typically diagnosed based on medical history and symptoms. There are no specific tests to confirm 
+a migraine diagnosis, but doctors may conduct tests to rule out other conditions that could cause similar 
+symptoms. This may include <span>neurological exams</span> and <span>brain imaging</span> (such as MRI or CT 
+scans) if there are concerns about other underlying conditions. The frequency, duration, and nature of the 
+headaches, as well as any associated symptoms, help guide the diagnosis.<br/><br/>
+
+<strong>How is Migraine Treated?</strong><br/>
+Migraine treatment typically involves two approaches: <span>acute treatment</span> to relieve symptoms during a 
+migraine attack, and <span>preventive treatment</span> to reduce the frequency and severity of migraines. 
+Acute treatments include <span>pain relievers</span> like ibuprofen or aspirin, <span>triptans</span> 
+(medications that narrow blood vessels and relieve pain), and anti-nausea medications. Preventive treatments may 
+include <span>beta-blockers</span>, <span>antidepressants</span>, <span>antiepileptic drugs</span>, or 
+<span>botox injections</span> for chronic migraine sufferers. Lifestyle changes such as maintaining regular 
+sleep patterns, managing stress, and avoiding triggers can also help manage migraines.<br/><br/>
+
+<strong>How is Migraine Prevented?</strong><br/>
+While migraines cannot always be prevented, there are several strategies to reduce the frequency and severity 
+of attacks. These include <span>identifying and avoiding triggers</span>, <span>maintaining a regular sleep 
+schedule</span>, staying hydrated, and managing stress through relaxation techniques. Medications such as 
+<span>beta-blockers</span>, <span>antidepressants</span>, and <span>antiepileptic drugs</span> may be 
+prescribed for individuals who experience frequent migraines. A balanced diet and regular physical activity 
+can also play a role in preventing migraines.<br/><br/>
+`
 
 }, {
     id: 31,
     image: 'Images/metabolic_syndrome.jpg',
     bookTitle: 'METABOLIC SYNDROME',
-    bookAuthor: 'Eyram Donkor',
-    content: ''
+    bookAuthor: 'Selinam Gakpetor',
+    content: ``
 
 }, {
     id: 32,
